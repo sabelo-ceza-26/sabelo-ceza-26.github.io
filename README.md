@@ -1,4 +1,4 @@
-# Sabelo Ceza
+v# Sabelo Ceza
 ## 📞CONTACT DETAILS
 **Email:** 220094489@mycput.ac.za |
 **Phone:** 073 982 0683 |
@@ -112,5 +112,8 @@ Laravel | React Native
 
 # Mock Interview  Video
 
-[![Mock Interview Video](https://github.com/sabelo-ceza-26/CapstoneProject/blob/main/mock-interview.png)](https://github.com/user-attachments/assets/2c7287c6-e2f4-4bc5-89fd-c8e41befdf77)
+<video width="600" controls>
+  <source src="assets/Mock_Interview_Video.mp4" type="video/mp4">
+</video> 
+
 
