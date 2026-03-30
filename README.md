@@ -113,7 +113,7 @@ Laravel | React Native
 # Mock Interview  Video
 
 <video width="600" controls>
-  <source src="assets/Mock_Interview_Video.mp4" type="video/mp4">
+  <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
 </video> 
 
 
