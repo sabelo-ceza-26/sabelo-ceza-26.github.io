@@ -1,4 +1,4 @@
-v# Sabelo Ceza
+# Sabelo Ceza
 ## 📞CONTACT DETAILS
 **Email:** 220094489@mycput.ac.za |
 **Phone:** 073 982 0683 |
