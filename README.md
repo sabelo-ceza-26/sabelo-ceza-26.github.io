@@ -95,7 +95,7 @@ IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | Thonny | MySQL Workbench 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  
+
   
 </p>
 
