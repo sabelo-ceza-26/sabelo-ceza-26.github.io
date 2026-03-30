@@ -112,9 +112,5 @@ Laravel | React Native
 
 # Mock Interview  Video
 
-
-
-
-
-https://github.com/user-attachments/assets/2c7287c6-e2f4-4bc5-89fd-c8e41befdf77
+[![Mock Interview Video](https://github.com/sabelo-ceza-26/CapstoneProject/blob/main/mock-interview.png)](https://github.com/user-attachments/assets/2c7287c6-e2f4-4bc5-89fd-c8e41befdf77)
 
