@@ -116,4 +116,13 @@ Laravel | React Native
   <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
 </video> 
 
+# Reflection on coding using Markdown
+I was given a task to code my CV using Markdown language, and honestly, it was my first time working with it, so I was a bit of a challenge as I was not sure where to start. My goal was to figure out how the language works and create a CV that looked clean and met all the requirements. To get there, I spent time watching tutorial videos and asked for help from people who understood Markdown better than I did. That really helped me understand what I should do, the syntax and how to format everything properly. I managed to completely code my CV using Markdown language and submit it successfully. Finishing this task successfully helped me feel more confident about learning new things and overcoming challenges.
+
+# Reflection on Mock Video Interview
+I was tasked to make a mock interview video where I had to answer a few questions. At first, I felt a bit uncomfortable because I am not used to recording myself, but I knew I had to speak clearly and with confidence. I took some time to practice my answers and understand the questions clearly before recording them. As I kept going, I started to ease up and felt more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, no background noise and maintaining eye contact. I successfully finished the task with all the questions answered and the experience gave me a glimpse of how the real interviews will be.
+
+# Reflection on GitHub pages
+I was given a task to use GitHub pages to publish my portfolio, it felt a bit confusing because I have never used GitHub pages before. My main goal was to understand how GitHub Pages works and to successfully get my portfolio online as required for the assignment. I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. Finally, I was able to successfully publish my portfolio using GitHub Pages. 
+
 
