@@ -120,12 +120,31 @@ Laravel | React Native | Springboot
 </video> 
 
 # Reflection on coding using Markdown
-I was given a task to code my CV using Markdown language, and honestly, it was a bit of a challenge as I was not sure where to start. My goal was to figure out how the language works and create a CV that looked clean and professional. To get there, I spent time watching tutorial videos and asked for help from people who understood Markdown better than I did. That really helped me understand what I should do, the syntax and how to format everything properly. I managed to completely code my CV using Markdown language and finishing this task successfully helped me feel more confident about learning new things and overcoming challenges.
+**Situation:** For this assignment, I was given a task to create a portolio and code my CV using the Markdown language.
+
+**Task:** My goal was to figure out how the language works and create a CV that looked clean and professional using the markdown syntax.
+
+**Action:** I spent time watching tutorial videos, doing some research and I also asked for help from people who understood Markdown better than I did. After getting all the information, I used what I learned to code the CV and create a well-organized portfolio.
+
+**Result:** I managed to completely code my CV using Markdown language and produced a well-organized porfolio. Finishing this task successfully helped me feel more confident in learning the Markdown language and using it to create something clear and well organized, even though I did not know it before.
 
 # Reflection on Mock Video Interview
-I was tasked to make a mock interview video where I had to answer a few questions. At first, I felt a bit uncomfortable because I am not used to recording myself, but I knew I had to speak clearly and with confidence. I took some time to practice my answers and understand the questions clearly before recording them. As I kept going, I started to ease up and felt more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, no background noise and maintaining eye contact. I successfully finished the task with all the questions answered and the experience gave me a glimpse of how the real interviews will be.
+
+**Situation:** I was tasked to make a mock interview video where I had to answer a few interview questions. The purpose of this video was to train me for real job interviews. 
+
+**Task:** I had to produce a professional mock video where I had to speak clearly and with confidence while answering the questions using the star method.
+
+**Action:** I took some time to understand the questions clearly and practice my answers before recording the video. As I kept going, I started to feel more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, having no background noise, and maintaining eye contact.
+
+**Result:** I successfully finished the task with all the questions answered, and the experience gave me a glimpse of how real interviews will be. I produced a professional mock video interview.
 
 # Reflection on GitHub pages
-I was given a task to use GitHub pages to publish my portfolio, it felt a bit confusing because I have never used GitHub pages before. My main goal was to understand how GitHub Pages works and to successfully get my portfolio online as required for the assignment. I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. Finally, I was able to successfully publish my portfolio using GitHub Pages. 
 
+**Situation:** I was given a task to publish my portfolio using GitHub pages so that it can be available online.
+
+**Task:** My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment.
+
+**Action:** I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected.
+
+**Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
 
