@@ -11,7 +11,7 @@
 ### 📄 CAREER SUMMARY
 I am a 3rd-year ICT Application Development student at Cape Peninsula University of Technology who is passionate about coding, UX design, and building user-friendly digital solutions and solving real-world problems through software.
 
-I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to a team.
+I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to the team.
 I am committed to continuous learning, embracing new challenges, and pursuing professional growth while delivering meaningful results.
 
 ## 🎓 EDUCATION
