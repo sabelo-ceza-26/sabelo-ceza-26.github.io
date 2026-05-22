@@ -18,6 +18,9 @@ I am committed to continuous learning, embracing new challenges, and pursuing pr
 
 Hector Petersen High School – Grade 12 (2013 - 2017)
 
+Cape Peninsula University of Technology (CPUT)
+Diploma in Opticianry  -  (2020 – 2022)
+
 FNB App Academy  - (May 2025 – July 2025)
 
 Cape Peninsula University of Technology (CPUT)
