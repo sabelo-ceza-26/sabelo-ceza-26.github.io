@@ -1,153 +1,485 @@
-# Sabelo Ceza
-## 📞CONTACT DETAILS
-**Email:** 220094489@mycput.ac.za |
-**Phone:** 073 982 0683 |
-**LinkedIn:** [linkedin.com/in/sabelo-ceza-240b831b6](www.linkedin.com/in/sabelo-ceza-240b831b6) |
-**GitHub:** [github.com/sabelo-ceza-26](https://github.com/sabelo-ceza-26) |
-**Address:** 40 Station Road, Goodwood, Cape Town, 7460 
+#### USER STORIES AND TASKS
 
----
-
-### 📄 CAREER SUMMARY
-I am a 3rd-year ICT Application Development student at Cape Peninsula University of Technology who is passionate about coding, UX design, and building user-friendly digital solutions and solving real-world problems through software.
-
-I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to the team.
-I am committed to continuous learning, embracing new challenges, and pursuing professional growth while delivering meaningful results.
-
-## 🎓 EDUCATION
-
-Hector Petersen High School – Grade 12 (2013 - 2017)
-
-Cape Peninsula University of Technology (CPUT)
-Diploma in Opticianry  -  (2020 – 2022)
-
-FNB App Academy  - (May 2025 – July 2025)
-
-Cape Peninsula University of Technology (CPUT)
-Diploma: ICT in Applications Development  -  (2024 – Present)
-
-## PROJECTS (2024 - Present)
-
-**ClinicConnect (Ongoing)**
-- Building a system for booking clinic appointments  
-- Connecting the system to a database  
-- Creating different dashboards for users (patients, doctors, nurses, admin)  
-- Using object-oriented programming  
-
-**FindX – Lost and Found Application Development**
-- Developed a lost-and-found mobile/desktop application using Java.
-- Designed and implemented core features for item reporting, searching, claiming, and user registration.
-- Developed the application in Apache NetBeans and used the built-in NetBeans database to store, manage and retrieve data.
-- Used problem-solving and database skills to handle data efficiently and make the system easy to use.
-
-**Alluring Aura – Beauty Website**
-- Developed a responsive, user-friendly beauty website using HTML, CSS, and JavaScript in Visual Studio Code.
-- Implemented features that allow users to view products and submit queries through the website.
-
-**Mindful-Minds NGO**
-- Developed a responsive, user-friendly website for the NGO using HTML, CSS, and JavaScript in Visual Studio Code.  
-- Showcased the organization’s mission, programs, and donation options.  
-- Implemented features that allow users to learn about mental health services and submit inquiries online.  
-
-**Spotify App Redesign**
-- Redesigned the Spotify application using Figma  
-- Improved the layout, navigation, and the overall user experience  
-- Created interactive prototypes to show application flow  
-
-**Student Enrollment Development - Java Client–Server Application**
-- Developed a Java client-server application with GUI for student enrolment.
-- Linked the system to a Derby database to store and manage students, courses, and enrolments.
-- Built a system to send and receive data through client-server connections with serialization.
+#### Sprint 1 <br>
+**Day 1: Problem Definition** <br>
+**User Story:** <br>
+As a member of the team, I want to clearly define the problem our service aims to solve so that we can build a solution that addresses our target customers' needs and provides value to the business. <br>
+**Tasks:** 
+- Identify the problem - Charmaine Dlamini <br>
+- Problem objectives - Zacharia Dipudi <br>
+- Problem scope - Wendy Bayise <br>
+- Identify key problem areas - Imaan Achmat <br>
+- Identify target audience - Sabelo Ceza
   
-## 🛠️ TECHNICAL SKILLS
+**Day 2: Agile Team Charter** <br>
+**User Story:** <br>
+As a member of the team, I want to create an Agile team charter so that everyone understands the project's purpose,vision,  roles, responsibilities, and team commitments. <br>
+**Tasks:** 
+- Purpose and vision - Sabelo Ceza <br>
+- Core values and behaviours - Imaan Achmat <br>
+- Definition of Done - Wendy Bayise <br>
+- Role assignment - Charmaine Dlamini <br>
+- Team Commitments - Zacharia Dipudi 
 
-### Core Skills
-- Troubleshooting  
-- Problem-solving  
+**Day 3: Communication Plan** <br>
+**User Story:** <br>
+As a member of the team, I want to create a communication plan so that everyone knows how, when, and where we will communicate, collaborate, and share project information as a group. <br>
+**Tasks:** 
+- Identify communication tools - Charmaine Dlamini <br>
+- Document communication plan - Bayise Wendy <br>
+- Communication responsibilities - Zacharia Dipudi <br>
+- Establish Communication Schedule - Imaan Achmat <br>
+- Establish Feedback Process - Sabelo Ceza
+
+**Day 4: Conduct User Research** <br>
+**User Story:** <br>
+As a member of the team, I want to conduct user research so that we can understand the needs of our customers/ target market and develop a service that meets their expectations. <br>
+**Customer User Story:** <br>
+As a potential customer, I want to complete a survey questionnaire so that I can share my laundry needs, preferences, and expectations to help improve the service. <br>
+**Tasks:**
+- Prepare research questions - Imaan Achmat  <br>
+- Create survey questionnaire - Sabelo Ceza  <br>
+- Distribute survey - Zacharia Dipudi  <br>
+- Define User Requirements - Charmaine Dlamini  <br>
+- Compile research report - Wendy Bayise
+
+**Day 5: Summary of Findings** <br>
+**User Story:** <br>
+As a member of the team, I want to analyze, summarize and organize the research findings so that we can identify user needs and improve our service. <br>
+**Tasks:**
+- Identify user needs - Zacharia Dipudi  <br>
+- Analyze survey responses- Charmaine Dlamini  <br>
+- Review research results - Imaan Achmat  <br>
+- Organize collected data - Sabelo Ceza  <br>
+- Summarize key findings - Wendy Bayise
+
+#### Sprint 2 <br>
+**Day 1: Competitor Analysis** <br>
+**User Story:** <br>
+As a business owner, I want to analyse competitors and define the value proposition so that the service can compete effectively in the market. <br>
+**Tasks:** 
+- Identify competitors - Wendy Bayise <br>
+- Competitor Comparison - Charmaine Dlamini <br>
+- Analyze strengths and weeknesses - Imaan Achmat <br>
+- Identify market gaps - Sabelo Ceza <br>
+- Document findings - Zacharia Dipudi
   
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-</p>
+**Day 2: Project Feasibility** <br>
+**User Story:** <br>
+As a business owner, I want to identify the required resources, estimate project costs, and evaluate the project's feasibility so that I can determine whether the laundry pickup and drop-off service is practical, affordable, and viable to implement. <br>
+**Tasks:** 
+-Identify the required resources - Wendy Bayise <br>
+- Estimate product costs - Charmaine Dlamini <br>
+- Evaluate project viability - Zacharia Dipudi <br>
+- Document feasibility findings - Sabelo Ceza <br>
+- Review feasibility result - Imaan Achmat
 
-HTML | CSS | Java | JavaScript | Python | PHP | SQL (MySQL)
+**Day 3: Project Risk Analysis** <br>
+**User Story:** <br>
+As a business owner, I want to identify and assess potential project risks so that I can develop strategies to reduce potential problems and make informed decisions. <br>
+**Tasks:** 
+- Market risk - Imaan Achmat <br>
+- Financial risk - Wendy Bayise <br>
+- Operational risk - Zacharia Dipudi <br>
+- Technical risk - Sabelo Ceza <br>
+- Document risk mitigation plan - Charmaine Dlamini
 
----
+**Day 4: Marketing Strategy** <br>
+**User Story:** <br>
+As a business owner, I want to create a marketing strategy so that more people know about our service. <br>
+**Tasks:**
+- Create marketing plan - Charmaine Dlamini <br>
+- Choose marketing channels - Zacharia Dipudi <br>
+- Set marketing budget - Sabelo Ceza <br>
+- Plan promotional  campaigns - Wendy Bayise <br>
+- Research marketing methods and channels - Imaan Achmat
 
-### IDEs & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="25"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="25"/>
-</p>
+**Day 5: Value Proposition** <br>
+**User Story:** <br>
+As a business owner, I want to define the value proposition so that our service stands out from competitors and attracts more customers. <br>
+**Tasks:**
+- Define the business unique value - Imaan Achmat <br>
+- Emotional Benefit - Zacharia Dipudi <br>
+- Functional Benefit - Sabelo Ceza <br>
+- Financial / Time-Saving Benefit - Charmaine Dlamini <br>
+- Document findings - Wendy Bayise
 
-IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | Thonny | MySQL Workbench | Canva | Xampp
+**Day 6:  Requirements document (Functional and Non-functional)** <br>
+**User Story:** <br>
+As a business owner, I want to define and document  the functional and non-functional requirements so that the development team understands what needs to be built. <br>
+**Tasks:**
+- Identify fuctional and non-functional requirements - Wendy Bayise <br>
+- Validate all requirements - Charmaine Dlamini <br>
+- Prioritize requirements - Imaan Achmat <br>
+- Compile and review findings - Zacharia Dipudi <br>
+- Finalize requirements document – Sabelo Ceza 
 
----
-
-### Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/>
-
+#### Sprint 3 <br>
+**Day 1: Work Breakdown Structure (WBS)** <br>
+**User Story:** <br>
+As a project manager, I want to create a Work Breakdown Structure so that the project is organised into manageable tasks and completed efficiently. <br>
+**Tasks:** 
+- Identify major project deliverables - Charmaine Dlamini <br>
+- Identify project milestones - Sabelo Ceza <br>
+- Break deliverables into smaller tasks - Sabelo Ceza <br>
+- Categorize tasks - Zacharia Dipudi <br>
+- Identify task dependencies - Imaan Achmat <br>
+- Assign responsibilities - Imaan Achmat <br>
+- Set task durations - Wendy Bayise <br>
+- Review WBS - Zacharia Dipudi & Wendy Bayise <br>
+- Finalize WBS - Charmaine Dlamini
   
-</p>
+**Day 2: Sprint Plans** <br>
+**User Story:** <br>
+As a Scrum master, I want to create sprint plans so that the team clearly understands the sprint goals and the tasks to be completed. <br>
+**Tasks:** 
+- Define sprint goals - Sabelo Ceza <br>
+- Create sprint backlog - Zacharia Dipudi <br>
+- Prioritize sprint tasks - Charmaine Dlamini <br>
+- Assess team capacity - Imaan Achmat <br>
+- Review and finalize sprint plan- Wendy Bayise
 
-Laravel | React Native | Springboot
+**Day 3: User Stories** <br>
+**User Story:** <br>
+As a project manager, I want to create user stories so that the team clearly understands the project requirements and deliverables. <br>
+**Tasks:** 
+- Identify system users - Imaan Achmat <br>
+- Write user stories - Wendy Bayise <br>
+- Define acceptance criteria - Sabelo Ceza <br>
+- Review user stories - Charmaine Dlamini <br>
+- Double check and finalise user stories - Zacharia Dipudi
 
----
+**Day 4: UML Diagrams** <br>
+**User Story:** <br>
+As a software developer, I want to create UML diagrams so that I can clearly understand the system's structure and functionality before development begins. <br>
+**Tasks:**
+- Draw use case diagram - Sabelo Ceza <br>
+- Draw activity diagram - Charmaine Dlamini <br>
+- Draw sequence diagram - Wendy Bayise <br>
+- Draw class diagram - Imaan Achmat <br>
+- Review and finalize UML diagrams - Zacharia Dipudi
 
+**Day 5: Progress Report** <br>
+**User Story:** <br>
+As a business owner, I want to review a progress report so that I can monitor the project's progress and make changes if needed. <br>
+**Tasks:**
+- Record sprint achievements - Sabelo Ceza <br>
+- Summarize completed tasks - Zacharia Dipudi <br>
+- Identify challenges - Wendy Bayise <br>
+- Document solutions - Charmaine Dlamini <br>
+- Update project progress and finalize progress report - Imaan Achmat
 
-##  📄 REFERENCES
-- Mandisa Msongelwa | ICT Mentor | **Phone:** 078 691 2208
-- Mrs Rebecca Bure | CPUT Lecturer |**Phone:** 074 705 4403  |**Email:** burer@cput.ac.za 
+#### Sprint 4 <br>
+**Day 1: Powerpoint Presentation Slides** <br>
+**User Story:** <br>
+As a member of the team, I want to prepare a business overview powerpoint presentation so that we can clearly present our business idea to the lecturer. <br>
+**Tasks:** 
+- Gather all the required content/ information - Zacharia Dipudi <br>
+- Create presentation slides - Sabelo Ceza <br>
+- Explain key features - Wendy Bayise <br>
+- Review and finalise content - Chramaine Dlamini <br>
+- Finalize presentation slides - Imaan Achmat 
+  
+**Day 2: Business Overview and Problem Statement** <br>
+**User Story:** <br>
+As a member of the team, I want to create a business overview and problem statement so that everyone understands our project and what is required. <br>
+**Tasks:** 
+- Research business background - Sabelo Ceza <br>
+- Define the business overview - Charmaine Dlamini <br>
+- Identify the problem Statement - Imaan Achmat <br>
+- Identify target audience - Wendy Bayise <br>
+- Review and refine content - Zacharia Dipudi
 
+**Day 3: Presentation Delivery** <br>
+**User Story:** <br>
+As a member of the team, I want to deliver the business overview presentation so that the lecturer understands our business and provides feedback. <br>
+**Tasks:** 
+- Assign presenters - Sabelo Ceza <br>
+- Schedule rehearsal - Charmaine Dlamini <br>
+- Practice presentation - Imaan and Wendy <br>
+- Make final improvements - Zacharia Dipudi <br>
+- Present to the lecturer - Imaan and Wendy
 
+**Day 4: Presentation Update** <br>
+**User Story:** <br>
+As a member of the team, I want to update the powerpoint presentation so that we can improve it based on the lecturer's feedback. <br>
+**Tasks:**
+- Review presentation content - Wendy Bayise <br>
+- Collect team feedback - Imaan Achmat <br>
+- Update presentation slides - Sabelo Ceza <br>
+- Review and finalize presentation - Charmaine Dlamini <br>
+- Presentation submission - Zacharia, Charmaine, Imaan, Wendy, Sabelo 
 
-# Mock Interview  Video
+#### Sprint 5 <br>
+**Day 1: Trello Board Setup and Management** <br>
+**User Story:** <br>
+As a Scrum Master, I want to set up and manage the Trello board so that the team can track sprint progress and manage tasks effectively. <br>
+**Tasks:** 
+- Organize the project into clear tasks and subtasks - Sabelo Ceza <br>
+- Group tasks into the correct stages of the project - Imaan Achmat <br>
+- Add deadlines, priorities, and task details. - Wendy Bayise <br>
+- Track the progress of each task and update its status - Charmaine Dlamini <br>
+- Review the board regularly and improve the task plan when needed - Zacharia Dipudi
+  
+**Day 2: Application features** <br>
+**User Story:** <br>
+As a product owner, I want to define the application features so that the development team has a clear understanding of the functionality to implement. <br>
+**Tasks:** 
+- Brainstorm core features - Charmaine Dlamini <br>
+- Define feature requirements - Wendy Bayise <br>
+- Features priority - Zacharia Dipudi <br>
+- List optional features - Imaan Achmat <br>
+- Review and finalise feature list - Sabelo Ceza
 
-<video width="600" controls>
-  <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
-</video> 
+**Day 3: Low Fidelity Wireframes** <br>
+**User Story:** <br>
+As a member of the team, I want to create the application low fidelity wireframes so that the team has a clear visual representation of the system's layout and user interface before development begins. <br>
+**Tasks:** 
+- Identify required application screens - Charmaine Dlamini <br>
+- Sketch low-fidelity wireframes - Zacharia Dipudi <br>
+- Define screen layout - Sabelo Ceza <br>
+- Review wireframes - Imaan  Achmat <br>
+- Update low fidelity wireframes based on team feedback- Wendy Bayise
 
-# Reflection on coding using Markdown
-**Situation:** For this assignment, I was given a task to create a portolio and code my CV using the Markdown language.
+**Day 4: High Fidelity User interface Design (UI/UX)** <br>
+**User Story:** <br>
+As a UI/UX designer, I want to create a simple and attractive application high fidelity wireframe design so that users can easily use the application. <br>
+**Tasks:**
+- Select colour scheme, fonts and icons - Wendy Bayise <br>
+- Design detailed user interface screens - Charmaine Dlamini <br>
+- Create consistent design style - Zachari Dipudi <br>
+- Review UI designs - Imaan Achmat <br>
+- Improve user experience - Sabelo Ceza
 
-**Task:** My goal was to figure out how the language works and create a CV that looked clean and professional using the markdown syntax.
+#### Sprint 6 <br>
+**Day 1: Interactive Figma Prototype** <br>
+**User Story:** <br>
+As a team member, I want to create a working prototype so that we can show how the application will work and look before we start building it.
 
-**Action:** I spent time watching tutorial videos, doing some research and I also asked for help from people who understood Markdown better than I did. After getting all the information, I used what I learned to code the CV and create a well-organized portfolio.
+As a customer, I want to try a prototype of the application so that I can check if it is simple and easy to use before it is implemented. <br>
+**Tasks:** 
+- Create clickable prototype - Sabelo Ceza <br>
+- Add screen interactions - Charmaine Dlamini <br>
+- Test the prototype flow - Wendy Bayise <br>
+- Collect feedback - Imaan Achmat <br>
+- Improve prototype based on feedback -Zacharia Dipudi
+  
+**Day 2: Prototype Testing** <br>
+**User Story:** <br>
+As a member of this team, I want to test the prototype so that we can identify and fix any usability issues before development. <br>
+**Tasks:** 
+- Test screen navigation - Sabelo Ceza <br>
+- Test interactive elements - Charmaine Dlamini <br>
+- Identify usability issues - Wendy Bayise <br>
+- Collect team feedback - Imaan Achmat <br>
+- Record testing results - Zacharia Dipudi
 
-**Result:** I managed to completely code my CV using Markdown language and produced a well-organized porfolio. Finishing this task successfully helped me feel more confident in learning the Markdown language and using it to create something clear and well organized, even though I did not know it before.
+**Day 3: Prototype Demonstration** <br>
+**User Story:** <br>
+As a member of this team, I want to demonstrate this prototype so that the users can review the design and provide feedback. <br>
+**Tasks:** 
+- Prepare prototype walkthrough - Sabelo Ceza <br>
+- Demonstrate application features - Charmaine Dlamini <br>
+- Explain user flow - Wendy Bayise <br>
+- Gather lecturer feedback - Zacharia Dipudi <br>
+- Record improvement suggestions - Imaan Achmat
 
-# Reflection on Mock Video Interview
+**Day 4: Prototype Improvements** <br>
+**User Story:** <br>
+As a member of this team, I want to improve the prototype based on feedback so that the application is ready for the next stage of development. <br>
 
-**Situation:** I was tasked to make a mock interview video where I had to answer a few interview questions. The purpose of this video was to train me for real job interviews. 
+As a customer, I want an easy to use and visually appealing application so that I can complete my tasks quickly and without confusion <br>
+**Tasks:**
+- Apply lecturer feedback - Sabelo Ceza <br>
+- Improve screen navigation - Wendy Bayise <br>
+- Fix prototype issues - Charmaine Dlamini <br>
+- Improve user experience - Zacharia Dipudi <br>
+- Finalise prototype - Imaan Achmat
 
-**Task:** I had to produce a professional mock video where I had to speak clearly and with confidence while answering the questions using the star method.
+#### Sprint 7 <br>
+**Day 1: Database Planning** <br>
+**User Story:** <br>
+As a database administrator, I want to plan the database structure so that the application stores and manages data efficiently, securely, and accurately.<br>
 
-**Action:** I took some time to understand the questions clearly and practice my answers before recording the video. As I kept going, I started to feel more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, having no background noise, and maintaining eye contact.
+As a customer, I want my personal information and laundry orders to be stored securely so that I can trust the application with my details.<br>
+**Tasks:** 
+- List database tables  with attributes - Wendy Bayise <br>
+- Identify entities and relationships - Imaan Achmat <br>
+- Create ERD / tables - Zacharia Dipudi <br>
+- Define primary and foreign keys - Sabelo Ceza <br>
+- Document database planning requirements - Charmaine Dlamini
+  
+**Day 2: Authentication Planning** <br>
+**User Story:** <br>
+As a resident (customer), I want to log in securely so that my personal information and orders are protected. <br>
+**Tasks:** 
+- Identify authentication requirement - Wendy Bayise <br>
+- Define password and account security rules - Charmaine Dlamini <br>
+- Define user roles and access levels - Zacharia Dipudi <br>
+- Research and select  authentication method - Imaan Achmat <br>
+- Review and finalize authentication plan - Sabelo Ceza
 
-**Result:** I successfully finished the task with all the questions answered, and the experience gave me a glimpse of how real interviews will be. I produced a professional mock video interview.
+**Day 3: Security Planning** <br>
+**User Story:** <br>
+As a system analyst, I want to plan the application's security measures so that user data and system resources are protected from unauthorized access and potential security threats. <br>
+**Tasks:** 
+- Security requirements - Zacharia Dipudi <br>
+- Plan user account and personal data security - Wendy Bayise <br>
+- Plan backup and recovery - Imaan Achmat <br>
+- Plan secure payment handling - Sabelo Ceza <br>
+- Review and finalize security plan - Charmaine Dlamini
 
-# Reflection on GitHub pages
+**Day 4: Database Review and Finalisation** <br>
+**User Story:** <br>
+As a database administrator, I want to review and finalise the database design so that it is accurate, complete, and ready for implementation. <br>
+**Tasks:**
+- Review the database schema - Charmaine Dlamini <br>
+- Review ERD/tables - Zacharia Dipudi <br>
+- Verfity tables relationships and contraints - Imaan Achmat <br>
+- Apply team feedback and make improvements - Sabelo Ceza <br>
+- Finalise database design - Wendy Bayise
 
-**Situation:** I was given a task to publish my portfolio using GitHub pages so that it can be available online.
+#### Sprint 8 <br>
+**Day 1: Project & GitHub Setup** <br>
+**User Story:** <br>
+As a team member, I want to set up the project and GitHub repository so that the team can collaborate efficiently and maintain version control throughout the project. <br>
+**Tasks:** 
+- Project and GitHub Repository Creation - Charmaine Dlamini <br>
+- Set Up Supabase Backend Integration - Sabelo Ceza <br>
+- Project Structure & Navigation Setup - Imaan Achmat <br>
+- Project Documentation - Zacharia Dipudi <br>
+- Application Configuration & Dependency Installation - Wendy Bayise
+  
+**Day 2: Screen Design** <br>
+**User Story:** <br>
+As a software developer, I want to design the application screens so that users have a consistent, intuitive, and visually appealing interface to interact with the system. <br>
+**Tasks:** 
+- Registration and Login  screen - Charmaine Dlamini <br>
+- Landing screen - Wendy Bayise <br>
+- User Home screen -Imaan Achmat <br>
+- Pickup & Delivery Address Screen - Zacharia Dipudi <br>
+- Profile screen - Sabelo Ceza
 
-**Task:** My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment.
+**Day 3: Screen Design** <br>
+**User Story:** <br>
+As a customer, I want well-designed application screens so that I can easily navigate the system and complete my laundry bookings without confusion. <br>
+**Tasks:** 
+- Forgot password and reset screen - Charmaine Dlamini <br>
+- Booking screen and functionality  - Imaan Achmat <br>
+- Order Details and Confirmation Screen - Zacharia Dipudi <br>
+- Order history screen - Wendy Bayise <br>
+- Edit profile screen - Sabelo Ceza
 
-**Action:** I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected.
+**Day 4: Screen Design** <br>
+**User Story:** <br>
+As a driver, I want a dashboard that displays my assigned pick-ups and deliveries so that I can efficiently manage my daily routes and update order statuses. <br>
 
-**Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
+As a customer, I want to make secure payments through the application so that my payment information is protected and my booking is completed safely. <br>
+**Tasks:**
+- Payment Screen and functionality - Zacharia Dipudi <br>
+- Live Order Tracking Screen and functionality - Imaan Achmat <br>
+- Notifications Screen and functionality  - Wendy Bayise <br>
+- Help & Support Screen and functionality  - Charmaine Dlamini <br>
+- Driver Dashboard - Sabelo Ceza
 
+**Day 5: Screen Design** <br>
+**User Story:** <br>
+As an administrator, I want clear and organized management screens so that I can manage customer accounts, orders, and deliveries efficiently while assisting users when needed. <br>
+**Tasks:**
+- Admin Dashboard - Charmaine Dlamini <br>
+- Customer Management Screen and functionality  - Imaan Achmat <br>
+- Driver Management Screen and functionality  - Wendy Bayise <br>
+- Order Management Screen and functionality  -Zacharia Dipudi <br>
+- Navigation/Route Screen and functionality - Sabelo Ceza
+
+#### Sprint 9 <br>
+**Day 1: Unit Testing** <br>
+**User Story:** <br>
+As a software tester, I want to perform unit testing on individual application components so that defects can be identified early and each component functions correctly before integration. <br>
+**Tasks:** 
+- Payment Testing - Sabelo Ceza <br>
+- Test User Authentication - Charmaine Dlamini <br>
+- Test Database Operations - Sabelo Ceza <br>
+- Record test results - Imaan Achmat <br>
+- Identify and Fix bugs - Wendy Bayise and Imaan Achmat <br>
+- Test Navigation Between Screens - Charmaine Dlamini <br>
+- User Acceptance Testing - Wendy Bayise <br>
+- Test across multiple devices - Zacharia Dipudi
+  
+**Day 2: System Testing** <br>
+**User Story:** <br>
+As a tester, I want to test all the application features so that I can find and fix problems before the application is released. <br>
+**Tasks:** 
+- Prepare Test Environment - Zacharia Dipudi <br>
+- Create System and integration Test Cases - Imaan Achmat <br>
+- Test User Authentication and Authorization - Charmain Dlamini <br>
+- Test Frontend and Supabase Integration - Sabelo Ceza <br>
+- Log and Fix Defects - Wendy Bayise
+
+**Day 3: Database Testing** <br>
+**User Story:** <br>
+As a database administrator, I want to test the database so that data is stored, retrieved, and managed accurately, securely, and efficiently. <br>
+**Tasks:** 
+- Test Real-Time Features - Zacharia Dipudi <br>
+- Test Data Validation - Wendy Bayise <br>
+- Verify Security Policies - Sabelo Ceza <br>
+- Test API Endpoints - Imaan Achmat <br>
+- Document Test Results - Charmaine Dlamini
+
+**Day 4: Debugging** <br>
+**User Story:** <br>
+As a software developer, I want to debug the application so that errors are identified and resolved, ensuring the system functions correctly and efficiently. <br>
+**Tasks:**
+- Identify Bugs - Imaan Achmat <br>
+- Fix Code Issues - Sabelo Ceza <br>
+- Debug Database Errors - Charmaine Dlamini <br>
+- Debug API Integration - Wendy Bayise <br>
+- Update Bug Log - Zacharia Dipudi
+
+**Day 5: Final Testing** <br>
+**User Story:** <br>
+As a software tester, I want to perform final testing so that the application is fully functional, meets all requirements, and is ready for deployment.  <br>
+
+As a customer, I want to use a fully tested application so that I can book, track, and manage my laundry orders without problems. <br>
+**Tasks:**
+- Perform End-to-End Testing - Charmaine Dlamini <br>
+- Verify All Features -Zacharia Dipudi <br>
+- Verify Database Operations - Sabelo Ceza <br>
+- Test Performance -Wendy Bayise <br>
+- Perform User Acceptance Testing (UAT) - Imaan Achmat <br>
+- Confirm Deployment Readiness - Sabelo Ceza <br>
+- Prepare Final Test Report - Wendy Bayise
+
+#### Sprint 10 <br>
+**Day 1: Project documentation** <br>
+**User Story:** <br>
+As a software developer, I want to prepare the system documentation so that the system's architecture, functionality, and technical implementation are clearly documented for maintenance and future development. <br>
+**Tasks:** 
+- Document system overview and project objectives - Wendy Bayise <br>
+- Document the system architecture - Sabelo Ceza <br>
+- Document the database structure and API endpoints -Zacharia Dipudi <br>
+- Combine the documents - Charmaine Dlamini <br>
+- Review and finalize all project documentation - Imaan Achmat
+
+**Day 2: System deployment** <br>
+**User Story:** <br>
+As a software developer, I want to deploy the system so that the application is available to users in a secure, stable, and production-ready environment. <br>
+
+As a customer, I want the application to be available online so that I can book and manage my laundry orders anytime and anywhere. <br>
+**Tasks:** 
+- Set up the production database - Wendy Bayise <br>
+- Configure security settings and environment variables - Imaan Achmat <br>
+- Configure the production/server environment - Zacharia Dipudi <br>
+- Deploy the application to the server - Sabelo Ceza <br>
+- Verify that the deployed system is working correctly - Charmaine Dlamini
+
+**Day 3: Review and Improvement** <br>
+**User Story:** <br>
+As a resident, I want to provide feedback on the application so that future improvements address my needs and enhance my experience. <br>
+**Tasks:** 
+- Gather feedback from users - Imaan Achmat <br>
+- Identify bugs and performance issues - Charmaine Dlamini <br>
+- Implement improvements and bug fixes - Zacharia Dipudi <br>
+- Update documentation based on the improvements - Sabelo Ceza
+
+#### REFLECTION
