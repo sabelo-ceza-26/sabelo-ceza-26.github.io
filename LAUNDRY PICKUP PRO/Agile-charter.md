@@ -1,4 +1,4 @@
-[Agile Team Charter - Laundry Pickup Pro](./Agile%20Charter%20Laundry%20Pickup%20Pro.pdf) <br>
+[Agile Team Charter – Laundry Pickup Pro](../PROJECT%20DOCUMENTS/Agile%20Team%20Charter%20Laundry%20Pickup%20Pro.pdf) <br>
 **1. Team Purpose & Vision:** <br>
 **Why do we exist as a team?** <br>
 We exist to design and develop a solution that addresses the lack of convenient laundry access for residents in Maitland, Observatory, and Woodstock.
