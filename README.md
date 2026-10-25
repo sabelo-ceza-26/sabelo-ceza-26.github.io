@@ -161,8 +161,8 @@ This portfolio contains documentation for both projects, including Agile team ch
 
 ## 1. Laundry Pickup Pro
 
-**Project Type: Entrepreneurial WIL Project**
-**Project Period: 1 July 2026 – 16 September 2026**
+**Project Type:** Entrepreneurial WIL Project
+**Project Period:** 1 July 2026 – 16 September 2026
 
 ### Project Documentation
 
