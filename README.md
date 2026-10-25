@@ -159,22 +159,19 @@ On **17 September 2026**, I joined **Full Stack**, a company based in Century Ci
 
 This portfolio contains documentation for both projects, including Agile team charters, user stories and tasks, product backlogs, sprint backlogs, and Agile logbooks.
 
----
-
 ## 1. Laundry Pickup Pro
 
-**Project Type:** Entrepreneurial WIL Project  
-**Project Period:** 1 July 2026 – 16 September 2026
+**Project Type: Entrepreneurial WIL Project**
+**Project Period: 1 July 2026 – 16 September 2026**
 
 ### Project Documentation
 
-- [Agile Team Charter](./LAUNDRY-PICKUP-PRO/Agile-charter.md)
-- [User Stories and Tasks](./LAUNDRY-PICKUP-PRO/User-Stories.md)
-- [Product Backlog](./LAUNDRY-PICKUP-PRO/Product-backlog.md)
-- [Sprint Backlog](./LAUNDRY-PICKUP-PRO/Sprint-backlog.md)
-- [Agile Logbooks](./LAUNDRY-PICKUP-PRO/Agile-logbooks.md)
-
----
+- [Agile Team Charter](./LAUNDRY%20PICKUP%20PRO/Agile-charter.md)
+- [User Stories and Tasks](./LAUNDRY%20PICKUP%20PRO/User-stories.md)
+- [Product Backlog](./LAUNDRY%20PICKUP%20PRO/Product-backlog.md)
+- [Sprint Backlog](./LAUNDRY%20PICKUP%20PRO/Sprint-backlog.md)
+- [Agile Logbooks](./LAUNDRY%20PICKUP%20PRO/Logbooks.md)
+  
 
 ## 2. ATKV – Afrikaanse Taal- en Kultuurvereniging
 
