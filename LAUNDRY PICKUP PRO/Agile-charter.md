@@ -179,10 +179,10 @@ Our team will review and update the charter during retrospectives to ensure it r
 | Zacharia Dipudi | Z.Dipudi| 
 
 #### REFLECTION
-**Situation:** My team and I were required to develop an Agile Team Charter for Laundry PickUp Pro, a laundry pick-up and drop-off service for residents in Maitland, Observatory, and Woodstock. The aim was to make laundry services more convenient and affordable for working adults, elderly residents, and people living in apartments without laundry facilities.
+**Situation:** My team and I were tasked with creating an Agile Team Charter for our Laundry PickUp Pro project. The purpose was to understand the problem we wanted to solve and agree on how we would work together.
 
-**Task:** My role as the Agile Lead was to help organise the team, make sure everyone understood their responsibilities, and keep the project on track. I also needed to help the team agree on how we would communicate, make decisions, manage tasks, and handle challenges.
+**Task:** As the Agile Lead, my responsibility was to organise the team, make sure everyone understood their roles, and help keep the project on track.
 
-**Action:** I helped establish clear team roles, working agreements, communication channels, and regular meetings. We agreed to use Microsoft Teams for meetings, WhatsApp for urgent communication, and email for formal communication. We also agreed to use the product backlog and logbook to organise tasks and track progress. Our team values included respect, trust, accountability, transparency, and collaboration. We identified possible risks, such as missed deadlines, miscommunication, technical problems, and limited resources, and agreed to support one another and raise challenges early.
+**Action:** I helped define team roles, working agreements, and communication methods. We agreed to use Microsoft Teams for meetings, WhatsApp for urgent messages, and email for formal communication. We also used the product backlog and logbook to organise tasks and track progress.
 
-**Result:** The Agile Team Charter gave our team a clear understanding of our goals, responsibilities, and expectations. It helped us establish a plan for working together and managing the project. I learned that good communication, teamwork, and accountability are important for completing a project successfully. I also realised that an Agile Team Charter should be reviewed regularly so that the team can learn from challenges and improve the way we work.
+**Result:** We created a clear plan that helped everyone understand their responsibilities and project goals. I learned that good communication, teamwork, and accountability are important for a successful project. I also learned that planning together helps prevent confusion and keeps the team focused.
