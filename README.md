@@ -153,11 +153,58 @@ Laravel | React Native | Springboot
 
 # GitHub Portfolio
 
-# Sabelo Ceza E-Portfolio
+## Brief Overview
 
-## BRIEF OVERVIEW
-From 1 July 2026 to 16 September 2026 I was part of the Entrepreneurial WIL Project and I worked on a project called Laundry Pickup Pro. As from the 17th of September 2026, I joined a company called Full Stack that is situated in Century City. I worked on a project called ATKV - Afrikaanse Taal- en Kultuurvereniging.
+From **1 July 2026 to 16 September 2026**, I was part of the **Entrepreneurial WIL Project**, where I worked on a project called **Laundry Pickup Pro**.
 
-### ENTREPRENEURAL WIL PROJECT (1 JULY 2026 - 16 SEPTEMBER 2026) - LAUNDRY PICKUP PRO
+On **17 September 2026**, I joined **Full Stack**, a company based in Century City, where I worked on a project called **ATKV (Afrikaanse Taal- en Kultuurvereniging)**.
+
+This portfolio contains documentation for both projects, including Agile team charters, user stories and tasks, product backlogs, sprint backlogs, and Agile logbooks.
+
+---
+
+## 1. Laundry Pickup Pro
+
+**Project Type:** Entrepreneurial WIL Project  
+**Project Period:** 1 July 2026 – 16 September 2026
+
+### Project Documentation
+
+- [Agile Team Charter](./LAUNDRY-PICKUP-PRO/Agile-charter.md)
+- [User Stories and Tasks](./LAUNDRY-PICKUP-PRO/User-Stories.md)
+- [Product Backlog](./LAUNDRY-PICKUP-PRO/Product-backlog.md)
+- [Sprint Backlog](./LAUNDRY-PICKUP-PRO/Sprint-backlog.md)
+- [Agile Logbooks](./LAUNDRY-PICKUP-PRO/Agile-logbooks.md)
+
+---
+
+## 2. ATKV – Afrikaanse Taal- en Kultuurvereniging
+
+**Project Type:** Industry Placement  
+**Company:** Full Stack  
+**Location:** Century City  
+**Start Date:** 17 September 2026
+
+### Project Documentation
+
+- [Agile Team Charter](./ATKV/Agile-charter.md)
+- [User Stories and Tasks](./ATKV/User-Stories.md)
+- [Product Backlog](./ATKV/Product-backlog.md)
+- [Sprint Backlog](./ATKV/Sprint-backlog.md)
+- [Agile Logbooks](./ATKV/Agile-logbooks.md)
+
+---
+
+## 3. Project Documents
+
+This section contains additional documents related to the projects.
+
+[View Project Documents](./PROJECT-DOCUMENTS/README.md)
+
+---
+
+*This portfolio will be updated as more project work and documentation are completed.*
+
+
 
 
