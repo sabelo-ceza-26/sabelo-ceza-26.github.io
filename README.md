@@ -154,14 +154,12 @@ Laravel | React Native | Springboot
 # GitHub Portfolio
 
 From **1 July 2026 to 16 September 2026**, I was part of the **Entrepreneurial WIL Project**, where I worked on a project called **Laundry Pickup Pro**.
-
 On **17 September 2026**, I joined **Full Stack**, a company based in Century City, where I worked on a project called **ATKV (Afrikaanse Taal- en Kultuurvereniging)**.
 
-This portfolio contains documentation for both projects, including Agile team charters, user stories and tasks, product backlogs, sprint backlogs, and Agile logbooks.
 
 ## 1. Laundry Pickup Pro
 
-**Project Type:** Entrepreneurial WIL Project
+**Project Type:** Entrepreneurial WIL Project <br>
 **Project Period:** 1 July 2026 – 16 September 2026
 
 ### Project Documentation
