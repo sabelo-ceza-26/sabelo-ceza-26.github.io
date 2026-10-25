@@ -1,153 +1,181 @@
-# Sabelo Ceza
-## 📞CONTACT DETAILS
-**Email:** 220094489@mycput.ac.za |
-**Phone:** 073 982 0683 |
-**LinkedIn:** [linkedin.com/in/sabelo-ceza-240b831b6](www.linkedin.com/in/sabelo-ceza-240b831b6) |
-**GitHub:** [github.com/sabelo-ceza-26](https://github.com/sabelo-ceza-26) |
-**Address:** 40 Station Road, Goodwood, Cape Town, 7460 
+[Agile Team Charter - Laundry Pickup Pro](./Agile%20Charter%20Laundry%20Pickup%20Pro.pdf) <br>
+**1. Team Purpose & Vision:** <br>
+**Why do we exist as a team?** <br>
+We exist to design and develop a solution that addresses the lack of convenient laundry access for residents in Maitland, Observatory, and Woodstock.
 
----
+**Team mission:** <br>
+To create a reliable and affordable laundry pick-up and drop-off service that saves time, reduces effort, and improves the daily lives of residents.
+We are solving the problem of inconvenient and inaccessible laundry services for working adults with busy schedules, elderly residents who struggle with physical tasks, and people living in apartments without laundry facilities.
 
-### 📄 CAREER SUMMARY
-I am a 3rd-year ICT Application Development student at Cape Peninsula University of Technology who is passionate about coding, UX design, and building user-friendly digital solutions and solving real-world problems through software.
+**Success definition:** <br>
+We will be successful when our final product is: <br>
+- Fully developed and functional. <br>
+- The solution clearly addresses the problem people are facing. <br>
+- The system is usable, practical and meets user needs.
 
-I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to the team.
-I am committed to continuous learning, embracing new challenges, and pursuing professional growth while delivering meaningful results.
+**Product / Service:** <br>
+We are responsible for delivering a laundry pick-up and drop-off service that includes: <br>
+- Booking system <br>
+- Laundry collection and delivery process <br>
+- Integration with laundromat owners <br>
+- Affordable prices <br>
+- Convenient scheduling
 
-## 🎓 EDUCATION
+**2. Team Members & Roles:**
 
-Hector Petersen High School – Grade 12 (2013 - 2017)
+| Name | Role | Key Responsibilities |
+| --- | --- | --- |
+| Imaan Achmat| Product Owner | The Product Owner comes up with the main idea, keeps the backlog organised and decides what should be done first. Their main focus is making sure that the team builds something useful that people actually need. |
+| Sabelo Ceza | Agile Lead | The main responsibility is to keep the team organized and make sure that everyone knows what to work on. An Agile leader also leads meetings in a clear way so no one feels confused, helps solve problems when the team encounters one, and makes sure everyone stays on track and works well together. |
+| Zacharia Dipudi| UI/UX Designer |The UI/UX Designer makes sure the app is simple and easy to use. The designer plans how users will move through the app and design screens that make sense before coding starts. The main goal is to make the navigation of the app smooth so that users do not get confused or stuck. |
+|Charmaine Dlamini | Developer / Analyst / Tester| The main responsibility is to build the system and make sure the code works perfectly. They also help decide how things should work in a simple and proper way, tests the features of the system to make sure everything runs smoothly, and fixes any bugs when something breaks.|
 
-Cape Peninsula University of Technology (CPUT)
-Diploma in Opticianry  -  (2020 – 2022)
+**3. Ways of Working:** <br>
+**How we work together day to day** <br>
 
-FNB App Academy  - (May 2025 – July 2025)
+**3.1 Agile Framework** <br>
+- Our team follows the Agile methodology. We use a product backlog to list and prioritise tasks, and a logbook to track task progress, updates, and team contributions.
+   
+**3.2 Ceremonies**
 
-Cape Peninsula University of Technology (CPUT)
-Diploma: ICT in Applications Development  -  (2024 – Present)
+| Ceremony  | Frequency | Purpose |
+| --- | --- | --- |
+| Daily Stand-up | Every working day | Team members share what they completed, what they are working on, and any challenges or obstacles they are facing. |
+| Planning | Once a week | Plan upcoming tasks, assign responsibilities, and set priorities for the week |
+| Review / Demo | End of each milestone or sprint |Show completed tasks, features and gather feedback from the team members |
+|Retrospective | After each milestone or sprint| Reflect on what went well, challenges faced, and how the team can improve.|
 
-## PROJECTS (2024 - Present)
+**4. Working Agreements** <br>
+**Rules we agree to follow as a team:** <br>
+- We show up prepared and on time.  <br>
+- We respect timeboxes and deadlines.  <br>
+- We give constructive feedback respectfully.  <br>
+- We raise challenges early to avoid delays.  <br>
+- We commit to continuous improvement.  <br>
+- We communicate regularly through group chat or meetings.  <br>
+- We complete assigned tasks before deadlines.  <br>
+- We support each other when challenges arise.  <br>
+- We keep the project files and documentation updated.  <br>
+- We check our work after completing tasks to make sure everything aligns.
 
-**ClinicConnect (Ongoing)**
-- Building a system for booking clinic appointments  
-- Connecting the system to a database  
-- Creating different dashboards for users (patients, doctors, nurses, admin)  
-- Using object-oriented programming  
+**5. Communication** <br>
+**How and when we communicate:** <br>
 
-**FindX – Lost and Found Application Development**
-- Developed a lost-and-found mobile/desktop application using Java.
-- Designed and implemented core features for item reporting, searching, claiming, and user registration.
-- Developed the application in Apache NetBeans and used the built-in NetBeans database to store, manage and retrieve data.
-- Used problem-solving and database skills to handle data efficiently and make the system easy to use.
+**Primary channels:** <br>
+*Microsoft Teams* - which is used for regular meetings, quick updates, daily standups and when the agenda of the meeting requires screen sharing. <br>
+*WhatsApp* – which is to be used for urgent messages and frequent communication with one another. <br>
+*Email* – which can be used for formal communication, reports, and document sharing.
+ 
+**Response-time expectations:** <br>
+During core hours (08:00 – 17:00, Monday - Friday), messages should be responded to within 1–2 hours. <br>
+**Urgent messages** (those marked with an urgent label or sent via WhatsApp) must have responses given within 30 minutes after the message was sent. <br>
+Non-urgent communication may have responses supplied within 12 hours after receipt.
 
-**Alluring Aura – Beauty Website**
-- Developed a responsive, user-friendly beauty website using HTML, CSS, and JavaScript in Visual Studio Code.
-- Implemented features that allow users to view products and submit queries through the website.
+**Remote / hybrid norms:** <br>
+- Team members should be available online during core hours. <br>
+- Cameras on during important meetings but optional for casual check-ins.<br>
+- Clear status updates (e.g., available, busy, offline) must be maintained on Teams.
+- If not available, let the team know ahead of time
 
-**Mindful-Minds NGO**
-- Developed a responsive, user-friendly website for the NGO using HTML, CSS, and JavaScript in Visual Studio Code.  
-- Showcased the organization’s mission, programs, and donation options.  
-- Implemented features that allow users to learn about mental health services and submit inquiries online.  
+**6. Decision-Making** <br>
+**How decisions are made:** <br>
+- Consensus <br>
+- Team vote
 
-**Spotify App Redesign**
-- Redesigned the Spotify application using Figma  
-- Improved the layout, navigation, and the overall user experience  
-- Created interactive prototypes to show application flow  
+The team will aim for consensus where possible. If an agreement cannot be reached, a majority vote will be used to make the final decision.
 
-**Student Enrollment Development - Java Client–Server Application**
-- Developed a Java client-server application with GUI for student enrolment.
-- Linked the system to a Derby database to store and manage students, courses, and enrolments.
-- Built a system to send and receive data through client-server connections with serialization.
-  
-## 🛠️ TECHNICAL SKILLS
+Escalation path if we’re stuck:
+- Discuss the issues as a team
+- Revisit our project goals
+- Seek guidance from our lecturer if needed
 
-### Core Skills
-- Troubleshooting  
-- Problem-solving  
-  
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-</p>
+ **7. Definition of Done (DoD)** <br>
+ **When is work really “done”?** <br>
+- When the application is fully developed and working as intended. <br>
+- When the application clearly addresses the problem it was designed to solve. <br>
+- When the application is usable, practical, and meets user needs. <br>
+- When all tests have been completed successfully and the system runs without errors. <br>
+- When the project documentation is updated. <br>
+- When the Product Owner has approved the work. <br>
+- When the system/application is deployed to the agreed environment. <br>
+- When there are no critical bugs or issues found. <br>
 
-HTML | CSS | Java | JavaScript | Python | PHP | SQL (MySQL)
+**8. Core Values & Behaviours** <br>
+**How we treat each other** <br>
 
----
+- *Respect* - Every team member is treated with dignity, we will listen to others’ opinions and value contributions made by everyone regardless of their role. <br>
+- *Transparency* - We communicate in an open and honest manner and we are transparent in the sharing of information. This allows us to keep all team members informed regarding decisions made and progress made. <br>
+- *Accountability* - We are accountable for completing our tasks, meeting deadlines, and accepting/owning all our successes and failures. <br>
+- *Trust* - We trust each other to perform our work, to help one another, and to provide a safe work environment for all team members so that all can confidently share ideas. <br>
+ - *Learning mindset* - We remain open-minded regarding feedback from others, we will constantly strive to Improve upon the skills that we possess, and we will always look at the challenges and mistakes that we make as opportunities to learn and grow. <br>
+- *Collaboration* – We work together as a team, sharing ideas and supporting one another to achieve our project goals. We believe that combining our strengths leads to better results.
 
-### IDEs & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="25"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="25"/>
-</p>
+**9. Risks & Constraints** <br>
+**What could impact our success?** <br>
 
-IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | Thonny | MySQL Workbench | Canva | Xampp
+**Known risks:** <br>
 
----
-
-### Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/>
-
-  
-</p>
-
-Laravel | React Native | Springboot
-
----
-
-
-##  📄 REFERENCES
-- Mandisa Msongelwa | ICT Mentor | **Phone:** 078 691 2208
-- Mrs Rebecca Bure | CPUT Lecturer |**Phone:** 074 705 4403  |**Email:** burer@cput.ac.za 
+- Team members may miss deadlines due to academic workload. <br>
+- Miscommunication between team members may cause confusion. <br>
+- Technical issues or bugs may delay development. <br>
+- Team members may have conflicting schedules for meetings or collaboration. <br?
+- Delayed tasks may affect the overall project timeline and progress. <br>
+- Lack of user feedback could affect the quality of the final product.
 
 
+**Dependencies:** <br>
+- Availability and commitment of all team members to complete assigned tasks. <br>
+- Access to reliable internet and development tools (e.g. IDEs, GitHub, database tools). <br>
+- Access to a working database and hosting platform for the system. <br>
+- Timely feedback from users or test participants to improve the system. <br>
+- Lecturer guidance and approval at different stages of the project
 
-# Mock Interview  Video
+**Constraints (time, budget, tools, skills):** <br>
 
-<video width="600" controls>
-  <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
-</video> 
+- Limited time due to academic schedule and other module deadlines. <br>
+- No budget, meaning reliance on free tools and platforms. <br>
+- Limited access to advanced development tools. <br>
+- Varying skill levels within the team (some members are still learning certain technologies). <br>
+- Dependence on free hosting or university resources which may have restrictions. 
 
-# Reflection on coding using Markdown
-**Situation:** For this assignment, I was given a task to create a portolio and code my CV using the Markdown language.
 
-**Task:** My goal was to figure out how the language works and create a CV that looked clean and professional using the markdown syntax.
+**10. Review & Improvement** <br>
+**Keeping the charter alive:** <br>
+**- Charter reviewed every:** <br>
+- Retrospective <br>
+Our team will review and update the charter during retrospectives to ensure it remains relevant and aligned with our project progress. <br>
 
-**Action:** I spent time watching tutorial videos, doing some research and I also asked for help from people who understood Markdown better than I did. After getting all the information, I used what I learned to code the CV and create a well-organized portfolio.
+- Last updated: 04 July 2026
 
-**Result:** I managed to completely code my CV using Markdown language and produced a well-organized porfolio. Finishing this task successfully helped me feel more confident in learning the Markdown language and using it to create something clear and well organized, even though I did not know it before.
 
-# Reflection on Mock Video Interview
+**11. Goals and Milestones** <br>
+**SMART Goals** <br>
+- Develop a user-friendly laundry pick-up and drop-off service platform that allows customers to book services, schedule pickups, and track orders before the end of the project timeline. <br>
+- Ensure that our app is affordable and practical for residents by focusing on convenience and accessibility. <br>
+- Test the app properly before deployment to make sure all features work correctly and users can navigate the system easily. <br>
+- Complete all planned project tasks within the given project timeline and contribute effectively as a team throughout the development process. 
 
-**Situation:** I was tasked to make a mock interview video where I had to answer a few interview questions. The purpose of this video was to train me for real job interviews. 
+**Project Milestones** <br>
+| Milestone  | Description | Target Date |
+| --- | --- | --- |
+| Project Planning | Define project scope, goals, requirements, and team responsibilities | Week 1 |
+| Requirements Gathering | Conduct research and gather user and business requirements | Week 2 |
+| UI/UX Design | Create wireframes, interface designs, and user navigation flow | Week 3|
+| Coding/Implementation | Begin developing the core system structure, screens, and basic functionality | Week 4 |
+| Database Design & Setup | Design and create the database structure for customers, bookings, and deliveries | Week 5 |
+| System Integration |Perform functionality testing and resolve identified issues| Week 7|
+| Testing & Bug Fixing | Design and create the database structure for customers, bookings, and deliveries | Week 5 |
+| Final Review & Deployment |Prepare final system, documentation, and presentation | Week 8|
 
-**Task:** I had to produce a professional mock video where I had to speak clearly and with confidence while answering the questions using the star method.
+**12. Team Commitment** <br>
+**Our agreement to this charter** <br>
+**By working on this team, we commit to the principles and agreements outlined above** <br>
 
-**Action:** I took some time to understand the questions clearly and practice my answers before recording the video. As I kept going, I started to feel more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, having no background noise, and maintaining eye contact.
+| Name  | Signature | 
+| --- | --- |
+| Imaan Achmat| I.Achmat | 
+| Sabelo Ceza | S.Ceza |
+| Charmaine Dlamini | C.Dlamini | 
+| Zacharia Dipudi | Z.Dipudi| 
 
-**Result:** I successfully finished the task with all the questions answered, and the experience gave me a glimpse of how real interviews will be. I produced a professional mock video interview.
-
-# Reflection on GitHub pages
-
-**Situation:** I was given a task to publish my portfolio using GitHub pages so that it can be available online.
-
-**Task:** My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment.
-
-**Action:** I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected.
-
-**Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
-
+#### REFLECTION
