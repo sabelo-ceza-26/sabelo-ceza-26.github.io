@@ -1,153 +1,162 @@
-# Sabelo Ceza
-## 📞CONTACT DETAILS
-**Email:** 220094489@mycput.ac.za |
-**Phone:** 073 982 0683 |
-**LinkedIn:** [linkedin.com/in/sabelo-ceza-240b831b6](www.linkedin.com/in/sabelo-ceza-240b831b6) |
-**GitHub:** [github.com/sabelo-ceza-26](https://github.com/sabelo-ceza-26) |
-**Address:** 40 Station Road, Goodwood, Cape Town, 7460 
+**1. Team Purpose & Vision:** <br>
+**Team mission:** <br>
+ATKV members use many separate systems for their details, payments, bookings, news and support. We are building one mobile app, in Afrikaans and English, that puts all of this in one place for ATKV members.
 
----
+**Success definition:** <br>
+We will be successful when our final product is: <br>
+- Members can use one app to manage their profile, wallets, bookings and support requests. <br>
+- We deliver each phase on time and the Product Owner accepts it. <br>
+- The app is live in the app stores.
 
-### 📄 CAREER SUMMARY
-I am a 3rd-year ICT Application Development student at Cape Peninsula University of Technology who is passionate about coding, UX design, and building user-friendly digital solutions and solving real-world problems through software.
 
-I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to the team.
-I am committed to continuous learning, embracing new challenges, and pursuing professional growth while delivering meaningful results.
+**Product / Service:** <br>
+A mobile app (web app that works like a phone app) for ATKV members, with: <br>
+- Member profile <br>
+- Two wallets: a normal wallet and a Tjieng Rewards wallet <br>
+- NFC armband payments at resorts <br>
+- News feeds for resorts, branches and culture projects <br>
+- Bookings and indemnity forms <br>
+- Support through Freshdesk
 
-## 🎓 EDUCATION
+**2. Team Members & Roles:**
 
-Hector Petersen High School – Grade 12 (2013 - 2017)
+| Name | Role | Key Responsibilities |
+| --- | --- | --- |
+| Luke Jackson | Product Owner |Decides what we build first; speaks for ATKV; accepts finished work. |
+| Scott Kitsoff | Agile Lead | Runs the team meetings; helps remove blockers; keeps work moving. |
+| Zacharia Dipudi| Designer |Designs the screens and how the app looks and feels. |
+| Sabelo Ceza| Developer | The main responsibility is to build the application and connect it to the other ATKV systems and also make sure the code works perfectly.|
+| Andile Faku | Tester | Checks that the app works and finds problems early. |
+| Dephne Moloi | Business Analyst | Writes down what ATKV needs and what each feature must do.|
 
-Cape Peninsula University of Technology (CPUT)
-Diploma in Opticianry  -  (2020 – 2022)
+**3. Ways of Working:** <br>
+**How we work together day to day** <br>
 
-FNB App Academy  - (May 2025 – July 2025)
+**3.1 Agile Framework** <br>
+- Our team follows the Kanban methodology. We use a product backlog to list and prioritise tasks, and a logbook to track task progress, updates, and team contributions.
+   
+**3.2 Ceremonies**
 
-Cape Peninsula University of Technology (CPUT)
-Diploma: ICT in Applications Development  -  (2024 – Present)
+| Ceremony  | Frequency | Purpose |
+| --- | --- | --- |
+| Daily Stand-up | Every working day, 15 Minutes | All team members share what we did, what is next, and what is blocking us. |
+| Planning | Once a week | Prioritise and pull work from thebacklog; confirm acceptance criteriaand dependencies. |
+| Review / Demo | Every 2 weeks | Show working software to the Product Owner and stakeholders and collect feedback. |
+|Retrospective | Every 2 weeks | Reflect on what went well, challenges faced, and how the team can improve.|
 
-## PROJECTS (2024 - Present)
+**4. Working Agreements** <br>
+**Rules we agree to follow as a team:** <br>
+- We show up prepared and on time.  <br>
+- We respect timeboxes and deadlines.  <br>
+- We give constructive feedback respectfully.  <br>
+- We raise blockers early.  <br>
+- We commit to continuous improvement.  <br>
+- We communicate regularly through group chat or meetings.  <br>
+- Another team member checks all work before it is added to the app.  <br>
+- We make sure everything works in both Afrikaans and English.  <br>
+- We check our work after completing tasks to make sure everything aligns.
 
-**ClinicConnect (Ongoing)**
-- Building a system for booking clinic appointments  
-- Connecting the system to a database  
-- Creating different dashboards for users (patients, doctors, nurses, admin)  
-- Using object-oriented programming  
+**5. Communication** <br>
+**How and when we communicate:** <br>
 
-**FindX – Lost and Found Application Development**
-- Developed a lost-and-found mobile/desktop application using Java.
-- Designed and implemented core features for item reporting, searching, claiming, and user registration.
-- Developed the application in Apache NetBeans and used the built-in NetBeans database to store, manage and retrieve data.
-- Used problem-solving and database skills to handle data efficiently and make the system easy to use.
+**Primary channels:** <br>
+*Microsoft Teams* - which is used for regular meetings, quick updates, daily standups and when the agenda of the meeting requires screen sharing. <br>
+*WhatsApp* – which is to be used for urgent messages and frequent communication with one another. <br>
+*Email* – which can be used for formal communication, reports, and document sharing.
+ 
+**Response-time expectations:** <br>
+During core hours (08:00 – 17:00, Monday - Friday), messages should be responded to within 1–2 hours. <br>
+**Urgent messages** Since we are an in-office based, if a message is urgent, you attend to it face-to-face. <br>
+Non-urgent communication may have responses supplied within 12 hours after receipt.
 
-**Alluring Aura – Beauty Website**
-- Developed a responsive, user-friendly beauty website using HTML, CSS, and JavaScript in Visual Studio Code.
-- Implemented features that allow users to view products and submit queries through the website.
+**Remote / hybrid norms:** <br>
+- Team members should be available online during core hours. <br>
+- Cameras on during important meetings but optional for casual check-ins.<br>
+- Clear status updates (e.g., available, busy, offline) must be maintained on Teams.
+- We tell the team in advance when we are away.
 
-**Mindful-Minds NGO**
-- Developed a responsive, user-friendly website for the NGO using HTML, CSS, and JavaScript in Visual Studio Code.  
-- Showcased the organization’s mission, programs, and donation options.  
-- Implemented features that allow users to learn about mental health services and submit inquiries online.  
+**6. Decision-Making** <br>
+**How decisions are made:** <br>
+- Consensus <br>
+- Product Owner final decision 
 
-**Spotify App Redesign**
-- Redesigned the Spotify application using Figma  
-- Improved the layout, navigation, and the overall user experience  
-- Created interactive prototypes to show application flow  
+We try to agree as a team first. If we cannot agree, the Product Owner decides. <br>
+Escalation path if we’re stuck:  <br>
+- Raise it in the stand-up or with the Agile Lead.  <br>
+- If unresolved, the Product Owner decides after hearing the team's input. <br>
+- If it affects time, money or the contract, the Product Owner takes it to ATKV management.
 
-**Student Enrollment Development - Java Client–Server Application**
-- Developed a Java client-server application with GUI for student enrolment.
-- Linked the system to a Derby database to store and manage students, courses, and enrolments.
-- Built a system to send and receive data through client-server connections with serialization.
+
+ **7. Definition of Done (DoD)** <br>
+ **When is work really “done”?** <br>
+- When the application is fully developed and working as intended. <br>
+- When the application clearly addresses the problem it was designed to solve. <br>
+- When the application is usable, practical, and meets user needs. <br>
+- When all tests have been completed successfully and the system runs without errors. <br>
+- When the project documentation is updated. <br>
+- When the Product Owner has approved the work. <br>
+- When the system/application is deployed to the agreed environment. <br>
+- When there are no critical bugs or issues found. <br>
+
+**8. Core Values & Behaviours** <br>
+**How we treat each other** <br>
+
+- *Respect* - We value every team member's input and treat ATKV stakeholders and members with courtesy. <br>
+- *Transparency* - We communicate in an open and honest manner and we are transparent in the sharing of information. This allows us to keep all team members informed regarding decisions made and progress made. <br>
+- *Accountability* - We are accountable for completing our tasks, meeting deadlines, and accepting/owning all our successes and failures. <br>
+- *Trust* - We trust each other to do the work and ask for help early. <br>
+ - *Learning mindset* - We treat mistakes as learning opportunities and keep improving ourpractices.<br>
+- *Collaboration* – We work together as a team, sharing ideas and supporting one another to achieve our project goals. We believe that combining our strengths leads to better results.
+
+**9. Risks & Constraints** <br>
+**What could impact our success?** <br>
+
+**Known risks:** <br>
+
+- Connecting to other ATKV systems may be harder than expected. <br>
+- Payments and member information must be kept safe. <br>
+- The NFC armband may not work the same on every phone. <br>
+- The app stores may be slow to approve the app. <br>
+- Extra features from the later phase may creep into the first phase.
+
+
+**Dependencies:** <br>
+- Access to the other ATKV systems (iMIS, Freshdesk, 1Tick, payment provider). <br>
+- Quick feedback and decisions from ATKV. <br>
+- Designs ready before the developers need them. <br>
+- NFC armbands available for testing.
   
-## 🛠️ TECHNICAL SKILLS
-
-### Core Skills
-- Troubleshooting  
-- Problem-solving  
-  
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-</p>
-
-HTML | CSS | Java | JavaScript | Python | PHP | SQL (MySQL)
-
----
-
-### IDEs & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="25"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="25"/>
-</p>
-
-IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | Thonny | MySQL Workbench | Canva | Xampp
-
----
-
-### Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/>
-
-  
-</p>
-
-Laravel | React Native | Springboot
-
----
+**Constraints (time, budget, tools, skills):** <br>
+- First phase must be done in 6 to 8 months, as agreed in the contract. <br>
+- Budget as set in the contract. <br>
+- We need people with skills in app building, payments and NFC.
 
 
-##  📄 REFERENCES
-- Mandisa Msongelwa | ICT Mentor | **Phone:** 078 691 2208
-- Mrs Rebecca Bure | CPUT Lecturer |**Phone:** 074 705 4403  |**Email:** burer@cput.ac.za 
+**10. Review & Improvement** <br>
+**Keeping the charter alive:** <br>
+**- Charter reviewed every:** <br>
+- Release <br>
+- Retrospective <br>
+Our team will review and update the charter during retrospectives to ensure it remains relevant and aligned with our project progress. <br>
+- Last updated: 04 October 2026
 
 
+**11. Goals and Milestones** <br>
+**SMART Goals** <br>
+- Build one easy-to-use mobile app that lets ATKV members manage their profile, use their wallets, view bookings and contact support, before the end of the 8-month V1 timeline. <br>
+- Make sure the app is practical and easy for members to use by keeping it simple, bilingual (Afrikaans and English), and available on phones and the web. <br>
+- Test the app properly before it goes live, so all features work correctly and members can find their way around easily. <br>
+- Complete all planned project tasks within the agreed timeline and work effectively as a team throughout the project. 
 
-# Mock Interview  Video
+**Project Milestones - Features** <br>
+| Milestone  | Description | Target Date |
+| --- | --- | --- |
+| Foundation & Member Profile | Set up the app, member login and profile, and connect to the ATKV member system | Months 1–2 |
+| Dual Wallet System | Build the normal wallet and the Tjieng Rewards wallet, with invoice payments and transaction history | Months 3-4 |
+| NFC Armband | Link armbands to wallets and allow members to load money and pay at resorts | Months 4–5|
+| Communication Platform |Build news feeds for resorts, branches and culture projects, with subscriptions and notifications | Months 5–6 |
+| Bookings & Resort Services| Show current and past bookings, resort information and indemnity forms | Months 6–7|
+| Support, Testing & Launch | Connect support requests to Freshdesk, finish testing and fix problems, then launch in the app stores | Months 7–8|
 
-<video width="600" controls>
-  <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
-</video> 
 
-# Reflection on coding using Markdown
-**Situation:** For this assignment, I was given a task to create a portolio and code my CV using the Markdown language.
-
-**Task:** My goal was to figure out how the language works and create a CV that looked clean and professional using the markdown syntax.
-
-**Action:** I spent time watching tutorial videos, doing some research and I also asked for help from people who understood Markdown better than I did. After getting all the information, I used what I learned to code the CV and create a well-organized portfolio.
-
-**Result:** I managed to completely code my CV using Markdown language and produced a well-organized porfolio. Finishing this task successfully helped me feel more confident in learning the Markdown language and using it to create something clear and well organized, even though I did not know it before.
-
-# Reflection on Mock Video Interview
-
-**Situation:** I was tasked to make a mock interview video where I had to answer a few interview questions. The purpose of this video was to train me for real job interviews. 
-
-**Task:** I had to produce a professional mock video where I had to speak clearly and with confidence while answering the questions using the star method.
-
-**Action:** I took some time to understand the questions clearly and practice my answers before recording the video. As I kept going, I started to feel more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, having no background noise, and maintaining eye contact.
-
-**Result:** I successfully finished the task with all the questions answered, and the experience gave me a glimpse of how real interviews will be. I produced a professional mock video interview.
-
-# Reflection on GitHub pages
-
-**Situation:** I was given a task to publish my portfolio using GitHub pages so that it can be available online.
-
-**Task:** My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment.
-
-**Action:** I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected.
-
-**Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
-
+#### REFLECTION
