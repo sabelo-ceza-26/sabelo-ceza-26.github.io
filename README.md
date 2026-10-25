@@ -151,3 +151,13 @@ Laravel | React Native | Springboot
 
 **Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
 
+# GitHub Portfolio
+
+# Sabelo Ceza E-Portfolio
+
+## BRIEF OVERVIEW
+From 1 July 2026 to 16 September 2026 I was part of the Entrepreneurial WIL Project and I worked on a project called Laundry Pickup Pro. As from the 17th of September 2026, I joined a company called Full Stack that is situated in Century City. I worked on a project called ATKV - Afrikaanse Taal- en Kultuurvereniging.
+
+### ENTREPRENEURAL WIL PROJECT (1 JULY 2026 - 16 SEPTEMBER 2026) - LAUNDRY PICKUP PRO
+
+
