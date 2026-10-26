@@ -94,3 +94,21 @@
 | SB43 | Day 1: Project Documentation | As a software developer, I want to prepare system documentation so that the system can be understood and maintained in the future. | - Document system overview and objectives<br>- Document system architecture<br>- Document database structure and API endpoints<br>- Combine the documents<br>- Review and finalise documentation | - The system overview, objectives, architecture, database structure, and API endpoints are documented.<br>- All documentation is combined, reviewed, and finalised. |
 | SB44 | Day 2: System Deployment | As a software developer and customer, I want the application to be deployed securely so that users can access the laundry service online. | - Set up production database<br>- Configure security settings and environment variables<br>- Configure production/server environment<br>- Deploy application to the server<br>- Verify the deployed system | - The production database, security settings, and server environment are configured.<br>- The application is deployed and checked to confirm that it works correctly. |
 | SB45 | Day 3: Review and Improvement | As a customer, I want to provide feedback so that future improvements can address my needs. | - Gather user feedback<br>- Identify bugs and performance issues<br>- Implement improvements and bug fixes<br>- Update documentation | - User feedback and identified bugs or performance issues are documented.<br>- Agreed improvements are implemented where possible, and the documentation is updated. |
+
+
+You can view the sprint backlog on the Trello board here: [Laundry Pickup Pro Trello Board](https://trello.com/b/D6tnqbrx/project-presentation-3)
+
+
+### REFLECTION ON SPRINT BACKLOG
+
+**Situation:**
+For the Laundry Pickup Pro project, my team and I used a sprint backlog. It breaks the product backlog into smaller pieces of work that can be finished in short sprints. Each item had a day, a user story, and a list of tasks. We need a sprint backlog because the product backlog on its own is too big to work from day to day. The sprint backlog shows what we must finish in each sprint, and on which day, so the work feels manageable and nobody is unsure about what comes next.
+
+**Task:**
+My task was to use the sprint backlog to plan and organise my work. I had to read each item carefully, understand the tasks allocated to me, and check the acceptance criteria so I know exactly what was required from me. I also had to follow the order of the sprints and keep up with the daily schedule.
+
+**Action:**
+I used the sprint backlog as my daily plan. This meant I only had to focus on one thing at a time instead of worrying about the whole project. Before working on a sprint, I read the user story to fully understand it. Then I go through the task list to check what was allocated to me and used it as a checklist. The acceptance criteria they told me exactly what had to be true before I could say my work was done. When I finished a task, I checked it against these criteria to make sure I had not missed anything.
+
+**Result:**
+The sprint backlog made it much easier for me to stay organised. I always knew what to work on each day, and I knew what a finished task looked like. It stopped me from forgetting tasks and from doing work in the wrong order. It also made the big project feel smaller, because I only had to think about one sprint at a time. It helped the team too, because everyone was working from the same plan. I learned that breaking a big project into small parts saves time and reduces stress. 
