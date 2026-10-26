@@ -49,3 +49,17 @@
 | SB27 | Activity 27: Taking a Recording Away to Watch | As an adjudicator, I want to take an entry recording away to watch so that I can review it when needed. | - Open the allocated recording<br>- Access the recording for review<br>- Support watching the recording away from the original screen<br>- Keep the recording linked to the correct entry | - The adjudicator can access the recording for review.<br>- The recording remains linked to the correct entry.<br>- Access is limited to the relevant allocated entry. |
 | SB28 | Activity 28: Recording an Entry Outcome | As an adjudicator, I want to record the outcome of an entry so that the result of the review is saved. | - Review the entry<br>- Enter the outcome<br>- Save the outcome<br>- Display the saved result<br>- Prevent unauthorised changes | - The outcome is saved against the correct entry.<br>- The saved outcome can be viewed later.<br>- The outcome is linked to the entry being reviewed. |
 | SB29 | Activity 29: Recording Outcomes for Team Members | As an adjudicator, I want to record an outcome for each speaker in a team entry so that every speaker receives the correct result. | - Open a team entry<br>- Identify each speaker<br>- Record an outcome for each speaker<br>- Save the outcomes against the correct speakers<br>- Review saved outcomes | - Each speaker can have an individual outcome recorded.<br>- Outcomes are linked to the correct speakers and team entry.<br>- Saved outcomes can be reviewed. |
+
+### REFLECTION ON THE SPRINT BACKLOG OF ATKV
+
+**Situation:**
+I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the sprint backlog was already written. In a fast-paced environment, I needed to understand the sprints and the tasks under them. At the End of each week, we had to make sure that all the tasks are done and they meet the acceptance criteria.
+
+**Task:**
+My task was to use the sprint backlog to check the tasks that needed to be implemented and also check if there are any blockers that might prevent those tasks from being implemented.I also had to keep up with the team's pace, so that my work was ready when others needed it. 
+
+**Action:**
+I did my own research whenever we move to a new sprintso I can fully under what is required. I ask a product owner everytime I have to implement a feature so that I can implement it exactly how they want it to be implemented. I looked only at the activities in the current sprint and worked out how much time each one would need. 
+
+**Result:**
+The sprint backlog helped me keep pace in a fast environment. I always knew what my current focus was, so I wasted less time deciding what to do next. Checking my work against the acceptance criteria made me more careful, and it meant fewer problems were found later. It also made my progress easy to see, for me and for the team.
