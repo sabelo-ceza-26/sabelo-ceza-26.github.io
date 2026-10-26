@@ -482,4 +482,22 @@ As a resident, I want to provide feedback on the application so that future impr
 - Implement improvements and bug fixes - Zacharia Dipudi <br>
 - Update documentation based on the improvements - Sabelo Ceza
 
-#### REFLECTION
+You can view the User Stories and Tasks on the Trello board here: [Laundry Pickup Pro Trello Board](https://trello.com/b/D6tnqbrx/project-presentation-3)
+
+#### REFLECTION ON USER STORIES AND TASKS
+
+**Situation:**
+My team and I had to write user stories and tasks for all 10 sprints. Each day of a sprint had to have its own user story, which explained who needed what and why. Each user story also needed to have a short list of tasks assigned to every member of the team. We needed clear tasks because a big project is hard to finish if nobody knows who is doing what. We had to use those user stories and tasks to get the workdone
+
+**Task:**
+My task was to use the user stories and tasks to organise my own work. I had to find the tasks with my name on them, understand what each one needed, and finish them in the right sprint and on the right day. I also had to make sure my work fitted with my teammates' tasks, because many days depended on everyone finishing their part.
+
+**Action:**
+Before I started a task, I first read the user story for that day. This helped me understand what the work was for and who it was meant to help. Then I looked for the tasks with my name on them, because every task had a name next to it, I knew exactly what I was responsible for, and I did not have to guess or wait to be told. I could see how much work I had in each sprint and spread it out, instead of leaving everything to the last minute.
+
+**Result:**
+The user stories and tasks made it much easier for me to stay organised. I always knew what task I had to do and when it was due. It stopped me from forgetting tasks, and it made me responsible for my own work, because my name was beside each task.
+
+
+
+I learned that writing the work as user stories keeps me focused on the user and not only on the code. I also learned that clear tasks with clear owners save time, because people can start working straight away. In the next sprints, I will keep checking my tasks every day, and I will talk to my team early if my work depends on theirs, so we can finish the project on time.
