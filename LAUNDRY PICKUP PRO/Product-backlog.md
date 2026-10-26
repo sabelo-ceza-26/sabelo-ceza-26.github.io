@@ -61,3 +61,17 @@
 | PB57 | Project Documentation | Document the system overview, objectives, architecture, database structure, and API endpoints; review and finalise the documentation. | Medium |
 | PB58 | Deployment | Prepare the production database, configure security and environment variables, deploy the application, and verify that it works. | High |
 | PB59 | Review and Improvements | Collect user feedback, identify bugs and performance issues, make improvements, and update documentation. | Medium |
+
+## REFLECTION ON PRODUCT BACKLOG
+
+**Situation:**
+For the Laundry Pickup Pro project, my team and I used a product backlog. It is a single list of everything the project needs. We need a product backlog because a big project is easy to get lost in. Without a product backlog, tasks get forgotten, people are unsure what to do next, and the team can waste time on the wrong things. The backlog puts the whole project in one place, so everyone can see what must be done and what matters most.
+
+**Task:**
+My task was to understand how the product backlog works and use it to stay organised. I had to know what each item covered, follow the priorities, and check the backlog regularly so I always know what to work on next. I also had to make sure that important work was not left behind while I was busy with smaller things.
+
+**Action:**
+I treated the backlog as my main planning tool. Before starting a task, I read its description to see exactly what it covered. This showed me what was expected, so I did not have to guess or do extra work that was not needed or required. The priorities helped me be aware of the tasks that must be done first.
+
+**Result:**
+The backlog made it much easier for me to stay organised. I always knew what was done, what was next, and what mattered most. It stopped me from forgetting tasks, and it kept me from spending too much time on small things while important work was waiting. It also helped the team stay on the same page, because everyone was working from the same list. What I am grateful for was setting priorities because I knew which tasks to do first.
