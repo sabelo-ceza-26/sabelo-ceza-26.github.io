@@ -62,6 +62,12 @@
 | PB58 | Deployment | Prepare the production database, configure security and environment variables, deploy the application, and verify that it works. | High |
 | PB59 | Review and Improvements | Collect user feedback, identify bugs and performance issues, make improvements, and update documentation. | Medium |
 
+
+
+You can view the Product backlog on the Trello board here: [Laundry Pickup Pro Trello Board](https://trello.com/b/D6tnqbrx/project-presentation-3)
+
+
+
 ## REFLECTION ON PRODUCT BACKLOG
 
 **Situation:**
