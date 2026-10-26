@@ -1,153 +1,434 @@
-# Sabelo Ceza
-## 📞CONTACT DETAILS
-**Email:** 220094489@mycput.ac.za |
-**Phone:** 073 982 0683 |
-**LinkedIn:** [linkedin.com/in/sabelo-ceza-240b831b6](www.linkedin.com/in/sabelo-ceza-240b831b6) |
-**GitHub:** [github.com/sabelo-ceza-26](https://github.com/sabelo-ceza-26) |
-**Address:** 40 Station Road, Goodwood, Cape Town, 7460 
+# Sprint 1
+
+**Day 1: Bilingual Content Management**  
+**User Story:**  
+As an administrator, I want to create content in English and Afrikaans so that members can read content in their chosen language.
+
+**Tasks:**
+
+- Create English and Afrikaans content fields
+- Add a language switch for administrators
+- Save content in both languages
+- Validate that both languages are completed before publishing
+- Display content in the member's selected language
 
 ---
 
-### 📄 CAREER SUMMARY
-I am a 3rd-year ICT Application Development student at Cape Peninsula University of Technology who is passionate about coding, UX design, and building user-friendly digital solutions and solving real-world problems through software.
+**Day 2: Province-Based Content**  
+**User Story:**  
+As an administrator, I want to assign content to specific provinces so that members only see information relevant to their area.
 
-I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to the team.
-I am committed to continuous learning, embracing new challenges, and pursuing professional growth while delivering meaningful results.
+**Tasks:**
 
-## 🎓 EDUCATION
-
-Hector Petersen High School – Grade 12 (2013 - 2017)
-
-Cape Peninsula University of Technology (CPUT)
-Diploma in Opticianry  -  (2020 – 2022)
-
-FNB App Academy  - (May 2025 – July 2025)
-
-Cape Peninsula University of Technology (CPUT)
-Diploma: ICT in Applications Development  -  (2024 – Present)
-
-## PROJECTS (2024 - Present)
-
-**ClinicConnect (Ongoing)**
-- Building a system for booking clinic appointments  
-- Connecting the system to a database  
-- Creating different dashboards for users (patients, doctors, nurses, admin)  
-- Using object-oriented programming  
-
-**FindX – Lost and Found Application Development**
-- Developed a lost-and-found mobile/desktop application using Java.
-- Designed and implemented core features for item reporting, searching, claiming, and user registration.
-- Developed the application in Apache NetBeans and used the built-in NetBeans database to store, manage and retrieve data.
-- Used problem-solving and database skills to handle data efficiently and make the system easy to use.
-
-**Alluring Aura – Beauty Website**
-- Developed a responsive, user-friendly beauty website using HTML, CSS, and JavaScript in Visual Studio Code.
-- Implemented features that allow users to view products and submit queries through the website.
-
-**Mindful-Minds NGO**
-- Developed a responsive, user-friendly website for the NGO using HTML, CSS, and JavaScript in Visual Studio Code.  
-- Showcased the organization’s mission, programs, and donation options.  
-- Implemented features that allow users to learn about mental health services and submit inquiries online.  
-
-**Spotify App Redesign**
-- Redesigned the Spotify application using Figma  
-- Improved the layout, navigation, and the overall user experience  
-- Created interactive prototypes to show application flow  
-
-**Student Enrollment Development - Java Client–Server Application**
-- Developed a Java client-server application with GUI for student enrolment.
-- Linked the system to a Derby database to store and manage students, courses, and enrolments.
-- Built a system to send and receive data through client-server connections with serialization.
-  
-## 🛠️ TECHNICAL SKILLS
-
-### Core Skills
-- Troubleshooting  
-- Problem-solving  
-  
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-</p>
-
-HTML | CSS | Java | JavaScript | Python | PHP | SQL (MySQL)
+- Add a province selection option
+- Allow content to target one or more provinces
+- Set content to national by default
+- Save province selections with the content
+- Display content to members in the selected provinces
+- Add content tags and save them with the content
 
 ---
 
-### IDEs & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="25"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="25"/>
-</p>
+**Day 3: Resort Facilities and Entertainment**  
+**User Story:**  
+As an administrator, I want to manage resort facilities and entertainment so that members can easily see what each resort offers.
 
-IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | Thonny | MySQL Workbench | Canva | Xampp
+**Tasks:**
 
----
-
-### Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/>
-
-  
-</p>
-
-Laravel | React Native | Springboot
+- Add and edit resort facilities
+- Add entertainment activities and nearby attractions
+- Add English and Afrikaans descriptions
+- Upload pictures of entertainment activities
+- Allow administrators to upload and replace PDF programmes
+- Display facilities and entertainment on the resort page
 
 ---
 
+**Day 4: Resort Accommodation Management**  
+**User Story:**  
+As an administrator, I want to manage accommodation types and their details so that members can compare options and choose suitable accommodation.
 
-##  📄 REFERENCES
-- Mandisa Msongelwa | ICT Mentor | **Phone:** 078 691 2208
-- Mrs Rebecca Bure | CPUT Lecturer |**Phone:** 074 705 4403  |**Email:** burer@cput.ac.za 
+**Tasks:**
 
+- Add and edit accommodation types
+- Add accommodation names and descriptions in both languages
+- Set the guest capacity and starting price
+- Upload and arrange accommodation pictures
+- Mark one accommodation type as featured
+- Add amenities for each accommodation type
+- Display accommodation information in the app
 
+---
 
-# Mock Interview  Video
+**Day 5: Start a Booking from the Bookings Screen**  
+**User Story:**  
+As a member, I want to start a new booking from my bookings screen so that I can easily search for accommodation.
 
-<video width="600" controls>
-  <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
-</video> 
+**Tasks:**
 
-# Reflection on coding using Markdown
-**Situation:** For this assignment, I was given a task to create a portolio and code my CV using the Markdown language.
+- Add a `Book a New Stay` button
+- Open the accommodation search screen when the button is selected
+- Allow members to start a booking without existing bookings
+- Ask members to select a resort
+- Return members to their bookings screen when they leave the search
 
-**Task:** My goal was to figure out how the language works and create a CV that looked clean and professional using the markdown syntax.
+---
 
-**Action:** I spent time watching tutorial videos, doing some research and I also asked for help from people who understood Markdown better than I did. After getting all the information, I used what I learned to code the CV and create a well-organized portfolio.
+**Day 6: Sort Accommodation**  
+**User Story:**  
+As a member, I want to sort accommodation by price, guest capacity, and availability so that I can find options that suit my needs.
 
-**Result:** I managed to completely code my CV using Markdown language and produced a well-organized porfolio. Finishing this task successfully helped me feel more confident in learning the Markdown language and using it to create something clear and well organized, even though I did not know it before.
+**Tasks:**
 
-# Reflection on Mock Video Interview
+- Add sorting by price
+- Add sorting by number of guests
+- Add sorting by availability
+- Keep all accommodation types visible when sorting
+- Reset the default sorting when the resort or dates change
 
-**Situation:** I was tasked to make a mock interview video where I had to answer a few interview questions. The purpose of this video was to train me for real job interviews. 
+---
 
-**Task:** I had to produce a professional mock video where I had to speak clearly and with confidence while answering the questions using the star method.
+**Day 7: Display Accommodation Details**  
+**User Story:**  
+As a member, I want to see the main details of each accommodation type so that I can compare options without opening every listing.
 
-**Action:** I took some time to understand the questions clearly and practice my answers before recording the video. As I kept going, I started to feel more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, having no background noise, and maintaining eye contact.
+**Tasks:**
 
-**Result:** I successfully finished the task with all the questions answered, and the experience gave me a glimpse of how real interviews will be. I produced a professional mock video interview.
+- Display the accommodation name
+- Show accommodation pictures
+- Display the starting price
+- Show the number of guests the accommodation can accommodate
+- Allow members to browse pictures without leaving the search results
 
-# Reflection on GitHub pages
+---
 
-**Situation:** I was given a task to publish my portfolio using GitHub pages so that it can be available online.
+**Day 8: Show Accommodation Availability**  
+**User Story:**  
+As a member, I want to see which accommodation types are available for my selected dates so that I can choose a suitable place to stay.
 
-**Task:** My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment.
+**Tasks:**
 
-**Action:** I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected.
+- Display all accommodation types at the selected resort
+- Check availability for the selected dates
+- Show available accommodation types
+- Mark accommodation as booked when it is unavailable for part of the stay
+- Update availability when members change their dates
 
-**Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
+---
 
+**Day 9: Display Current Offers**  
+**User Story:**  
+As a member, I want to see current accommodation offers while searching so that I can take advantage of available deals.
+
+**Tasks:**
+
+- Retrieve current resort offers
+- Display offers in the accommodation search
+- Keep offers consistent with ATKV's other booking channels
+- Hide offers that have expired
+- Allow members to sort, filter, and browse accommodation while offers are displayed
+
+---
+
+**Day 10: Start a Booking from a Resort Page**  
+**User Story:**  
+As a member, I want to start a booking from a resort page so that I can search the accommodation offered by that resort directly.
+
+**Tasks:**
+
+- Add a `Book Now` button to resort pages
+- Open the accommodation search screen
+- Select the resort automatically
+- Display accommodation belonging to that resort
+- Allow members to change the selected resort
+
+---
+
+**Day 11: Filter Accommodation by Resort and Dates**  
+**User Story:**  
+As a member, I want to filter accommodation by resort and travel dates so that I can find suitable options for my stay.
+
+**Tasks:**
+
+- Add a resort selection field
+- Add check-in and check-out date fields
+- Set the default dates to the coming week
+- Display accommodation for the selected resort
+- Keep the search filters visible while scrolling
+- Prevent check-out dates from being on or before check-in dates
+
+---
+
+**Day 12: Confirm Accommodation and Member Details**  
+**User Story:**  
+As a member, I want my selected accommodation and personal details to appear automatically during booking so that I can confirm my information without entering it again.
+
+**Tasks:**
+
+- Display the selected resort and accommodation type
+- Retrieve the member's name and identity number
+- Retrieve the member's email address and phone number
+- Link the booking to the member's account
+- Match the booking to the correct member
+- Prevent incomplete bookings from being created
+
+---
+
+**Day 13: Choose Booking Dates**  
+**User Story:**  
+As a member, I want to select my check-in and check-out dates so that I can book accommodation for my intended stay.
+
+**Tasks:**
+
+- Add check-in and check-out date selection
+- Check accommodation availability for the chosen dates
+- Prevent bookings for unavailable dates
+- Prevent check-out dates from being on or before check-in dates
+- Prevent members from selecting dates in the past
+- Display clear messages when dates cannot be accepted
+
+---
+
+**Day 14: Restaurant Menus and Promotions**  
+**User Story:**  
+As a guest, I want to view restaurant menus and special-event promotions on a resort page so that I know what food and events are available.
+
+**Tasks:**
+
+- Add a restaurant section to the resort page
+- Upload standard restaurant menus
+- Upload special-occasion menus
+- Add promotional images for restaurant events
+- Support English and Afrikaans content
+- Display the restaurant section when restaurant content is available
+
+---
+
+**Day 15: Manage Daily Game Content**  
+**User Story:**  
+As an administrator, I want to add game content for specific days so that daily games can continue without requiring a new software release.
+
+**Tasks:**
+
+- Add game content for a selected day
+- Allow content to be added for multiple days
+- Check whether content already exists for a day
+- Ask for confirmation before replacing existing content
+- Prevent changes to content for rounds that have already been played
+- Display which days have content available
+
+---
+
+**Day 16: Open a Project Season**  
+**User Story:**  
+As an administrator, I want to open a season for a project so that members can enter the project during the specified period.
+
+**Tasks:**
+
+- Add an option to open a project season
+- Set the season's start and end dates
+- Allow members to enter while the season is open
+- Prevent entries when no season is open
+- Prevent two seasons from being open at the same time for one project
+- Allow a new season to be opened after the previous season closes
+
+---
+
+**Day 17: Set Season Requirements**  
+**User Story:**  
+As an administrator, I want to set the requirements for a season so that members know what to submit and what fees and limits apply.
+
+**Tasks:**
+
+- Add the categories available for entry
+- Set the entry fee
+- Define what members must submit
+- Set submission length and file size limits
+- Set the season closing date
+- Display submission limits before recording or uploading
+- Prevent files that exceed the allowed size
+- Send reminders before the closing date
+
+---
+
+**Day 18: Close a Project Season**  
+**User Story:**  
+As an administrator, I want to close a season so that entries can no longer be changed and are ready for judging.
+
+**Tasks:**
+
+- Add an option to close a season
+- Prevent new entries after closure
+- Prevent changes or new submissions to closed entries
+- Keep unfinished entries visible to members
+- Exclude unfinished entries from judging
+- Prevent closed seasons from being reopened
+
+---
+
+**Day 19: Allocate Entries to Adjudicators**  
+**User Story:**  
+As an administrator, I want to assign entries to adjudicators so that each adjudicator can judge only the entries assigned to them.
+
+**Tasks:**
+
+- Display entries from closed seasons
+- Assign entries to adjudicators
+- Allow entry assignments to be changed when permitted
+- Remove access for adjudicators who no longer have an assignment
+- Display entries that have not yet been assigned
+- Prevent reassignment after an outcome has been recorded
+
+---
+
+**Day 20: View Project Entries and Progress**  
+**User Story:**  
+As an administrator, I want to view project entries and judging progress so that I can monitor the progress of each season.
+
+**Tasks:**
+
+- Display the total number of entries
+- Group entries by category
+- Show which entries have been judged
+- Show which entries still need judging
+- Separate unfinished entries from completed entries
+- Display scores and answers for completed auto-scored games
+- Rank entrants by score where applicable
+
+---
+
+**Day 21: Manage Daily Game Offers**  
+**User Story:**  
+As an administrator, I want to update the information and pictures describing a daily game's offers so that members know what the game offers.
+
+**Tasks:**
+
+- Add wording describing the game
+- Upload a picture for the game
+- Save and display game information
+- Allow administrators to update the information without a software release
+- Hide the offer description when no content has been added
+
+---
+
+**Day 22: Set the Required Playing Streak**  
+**User Story:**  
+As an administrator, I want to set the number of consecutive days required for a playing streak so that ATKV can change the requirement without a software release.
+
+**Tasks:**
+
+- Add a setting for the required number of days
+- Save the selected streak length
+- Measure members' playing streaks against the setting
+- Allow the setting to be changed
+- Validate that the streak length is a positive whole number
+- Keep existing play records unchanged when the setting changes
+
+---
+
+**Day 23: Remove Submitted Entry Material**  
+**User Story:**  
+As an administrator, I want to remove submitted entry files after judging so that ATKV does not keep recordings and other private material longer than necessary.
+
+**Tasks:**
+
+- Allow material to be removed for a whole season
+- Allow material to be removed from an individual entry
+- Confirm the removal before deleting files
+- Prevent removal while entries still need judging
+- Keep entry details, outcomes, and certificates
+- Inform members when their submitted material has been removed
+- Prevent deleted material from being restored
+
+---
+
+**Day 24: Cancel a Project Season and Refund Payments**  
+**User Story:**  
+As an administrator, I want to cancel a season and refund payments so that members receive their money back when ATKV cannot run the project.
+
+**Tasks:**
+
+- Add an option to cancel a season
+- Confirm the cancellation before proceeding
+- Request the reversal of invoices through iMIS
+- Refund fees already paid by members
+- Prevent cancelled entries from being judged
+- Inform members that the season was cancelled
+- Display refund information to affected members
+- Prevent cancellation after an outcome has been recorded
+
+---
+
+**Day 25: Control Adjudicator Access**  
+**User Story:**  
+As ATKV, I want adjudicators to access only their assigned entries so that members' private submissions are protected.
+
+**Tasks:**
+
+- Restrict adjudicators to their assigned entries
+- Prevent direct access to entries assigned to others
+- Display a message when no entries have been assigned
+- Restrict adjudicators to the adjudication section
+- Remove access when an entry is reassigned
+
+---
+
+**Day 26: View and Open Submitted Entries**  
+**User Story:**  
+As an adjudicator, I want to open and view an assigned entry so that I can judge it and record the outcome.
+
+**Tasks:**
+
+- Display the entry's details and category
+- Open submitted recordings in the portal
+- Allow documents and artwork to be viewed
+- Display scores and answers for auto-scored entries
+- Display the entrant's name
+- Show only the latest submitted material
+- Display the member's confirmation of category eligibility
+
+---
+
+**Day 27: Download Recordings for Judging**  
+**User Story:**  
+As an adjudicator, I want to download an assigned recording so that I can judge it without depending on a continuous internet connection.
+
+**Tasks:**
+
+- Add an option to download assigned recordings
+- Allow adjudicators to access downloaded recordings on their devices
+- Ensure only assigned recordings can be downloaded
+- Provide the latest submitted version of a recording
+- Require adjudicators to record outcomes through the portal
+
+---
+
+**Day 28: Record an Entry's Outcome**  
+**User Story:**  
+As an adjudicator, I want to record the outcome of an entry so that the entrant can view their result and receive their certificate.
+
+**Tasks:**
+
+- Display the outcome options for the season
+- Allow adjudicators to record an entry's result
+- Validate that all required outcome fields are completed
+- Prevent outcomes from being recorded for entries assigned to other adjudicators
+- Prevent judging while a season is still open
+- Allow corrections before judging is finalised
+- Make results and certificates available after the outcome is saved
+
+---
+
+**Day 29: Record Outcomes for Team Entries**  
+**User Story:**  
+As an adjudicator, I want to record a separate outcome for each speaker in a team entry so that every speaker receives an individual result and certificate.
+
+**Tasks:**
+
+- Display all speakers listed in a team entry
+- Record an outcome for each speaker
+- Prevent a single outcome from being recorded for the whole team
+- Identify speakers who still need to be judged
+- Generate a separate result for each speaker
+- Provide each speaker with a certificate in their own name
+- Notify each speaker when their result and certificate are available
