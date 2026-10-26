@@ -1,4 +1,5 @@
-[Agile Team Charter – Laundry Pickup Pro](../PROJECT%20DOCUMENTS/Agile%20Team%20Charter%20Laundry%20Pickup%20Pro.pdf) <br>
+# Agile Team Charter
+
 **1. Team Purpose & Vision:** <br>
 **Why do we exist as a team?** <br>
 We exist to design and develop a solution that addresses the lack of convenient laundry access for residents in Maitland, Observatory, and Woodstock.
@@ -178,11 +179,18 @@ Our team will review and update the charter during retrospectives to ensure it r
 | Charmaine Dlamini | C.Dlamini | 
 | Zacharia Dipudi | Z.Dipudi| 
 
-#### REFLECTION
-**Situation:** My team and I were tasked with creating an Agile Team Charter for our Laundry PickUp Pro project. The purpose was to understand the problem we wanted to solve and agree on how we would work together.
+[Agile Team Charter – Laundry Pickup Pro](../PROJECT%20DOCUMENTS/Agile%20Team%20Charter%20Laundry%20Pickup%20Pro.pdf) <br>
 
-**Task:** As the Agile Lead, my responsibility was to organise the team, make sure everyone understood their roles, and help keep the project on track.
+#### REFLECTION ON AGILE TEAM CHARTER
+**Situation:**
+My team and I had to create an Agile Team Charter for our Laundry Pickup Pro project. The charter helped us understand what we wanted to achieve. It also set out how we would manage our tasks, run our meetings, and work together to reach our goals as a team.
 
-**Action:** I helped define team roles, working agreements, and communication methods. We agreed to use Microsoft Teams for meetings, WhatsApp for urgent messages, and email for formal communication. We also used the product backlog and logbook to organise tasks and track progress.
+**Task:**
+As the Agile Lead, it was my job to help get the team organised and make sure everyone knew what they were responsible for. I also had to keep the project moving in the right direction. On top of that, we needed to agree on how we will we communicate with each other and how we would handle problems when they came up.
 
-**Result:** We created a clear plan that helped everyone understand their responsibilities and project goals. I learned that good communication, teamwork, and accountability are important for a successful project. I also learned that planning together helps prevent confusion and keeps the team focused.
+**Action:**
+As the Agile Lead, I sat down with the team and we worked out who would do what. We also agreed on when we would meet and the rules we would follow when working together. For communication, we decided to use Microsoft Teams for our meetings, WhatsApp for urgent messages, and email for anything formal. We also set up a product backlog, which gave us one place to list all our tasks and decide which ones to do first.
+
+**Result:**
+In the end, we had a clear plan that showed everyone what their role was. The biggest challenge was getting everyone to understand how we would tackle the work and how the application will look like. We fixed this by talking it through as a team until everyone was on the same page. This made it easier to work together and stopped a lot of confusion.
+From this task, I learned that good communication, teamwork, and planning really matter for a project to succeed. I also learned what it means to take responsibility as an Agile Lead and how to keep the team focused on our goals.
