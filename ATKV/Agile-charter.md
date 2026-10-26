@@ -1,3 +1,5 @@
+### Team Agile Charter ATKV
+
 **1. Team Purpose & Vision:** <br>
 **Team mission:** <br>
 ATKV members use many separate systems for their details, payments, bookings, news and support. We are building one mobile app, in Afrikaans and English, that puts all of this in one place for ATKV members.
@@ -25,7 +27,8 @@ A mobile app (web app that works like a phone app) for ATKV members, with: <br>
 | Luke Jackson | Product Owner |Decides what we build first; speaks for ATKV; accepts finished work. |
 | Scott Kitsoff | Agile Lead | Runs the team meetings; helps remove blockers; keeps work moving. |
 | Zacharia Dipudi| Designer |Designs the screens and how the app looks and feels. |
-| Sabelo Ceza| Developer | The main responsibility is to build the application and connect it to the other ATKV systems and also make sure the code works perfectly.|
+| Sabelo Ceza| Intern Developer | The main responsibility is to build the application and connect it to the other ATKV systems and also make sure the code works perfectly.|
+| Kate Henry | Developer | The main responsibility is to build the application and connect it to the other ATKV systems and also make sure the code works perfectly.|
 | Andile Faku | Tester | Checks that the app works and finds problems early. |
 | Dephne Moloi | Business Analyst | Writes down what ATKV needs and what each feature must do.|
 
@@ -159,4 +162,16 @@ Our team will review and update the charter during retrospectives to ensure it r
 | Support, Testing & Launch | Connect support requests to Freshdesk, finish testing and fix problems, then launch in the app stores | Months 7–8|
 
 
-#### REFLECTION
+### REFLECTION ON ATKV AGILE TEAM CHARTER
+
+**Situation:**
+I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the Agile Team Charter was already done. This is a real project for a real client, with a fixed timeline of 6 to 8 months, so the environment is fast. I did not have time to ease in slowly. I had to learn what the project was about and catch up with the team as quickly as I could.
+
+**Task:**
+My task was to read and understand the charter and the project so that I could keep up with the team. As the Intern  Developer, I am responsible for building the application, connecting it to the other ATKV systems, and making sure the code works properly. I had to learn what the app does, who it is for, and how the team works, so I could start contributing without slowing anyone down.
+
+**Action:**
+I started by reading the charter carefully, because it was the quickest way to understand the project and the team. It explained the purpose of the app, what ATKV members need from it, and what has to be delivered in each phase. I then went through the milestones and risks to see where the project was heading and what could go wrong.
+
+**Result:**
+Reading the charter helped me settle into the team much faster. I understood what was expected of me, and the rest of the team knew what to expect from me. I did not have to guess how things were done, which saved time for me and for the team. It also helped me stay professional, which matters on an industry placement where I am representing myself to a real client.
