@@ -1,4 +1,4 @@
-# PRODUCT BACKLOG
+# PRODUCT BACKLOG ATKV
 
 | Backlog ID | Product Backlog Item | Description / Tasks | Priority |
 |---|---|---|---|
@@ -36,4 +36,17 @@
 | PB32 (PBI 101101) | An adjudicator records the outcome of an entry | Allow adjudicators to review an entry, enter and save its outcome, and make the saved result available for later viewing. | High |
 | PB33 (PBI 101102) | An adjudicator records an outcome for each speaker in a team entry | Allow adjudicators to identify each speaker in a team entry, record a separate outcome for each speaker, save the outcomes against the correct people, and review the saved results. | High |
 
-# REFLECTION
+### REFLECTION ON THE PRODUCT BACKLOG OF ATKV
+
+**Situation:**
+I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the product backlog was already written. The environment was fast, so I did not have time to drag my feet, I had to read the backlog and learn what the project was about as quickly as I could. I had to understand what was being implemented and what was the timeframe for the project.
+
+**Task:**
+My task was to fully understand the product backlog so I could keep up with the team. As the Developer, I need to know what each item asks for before I can build it. I had to learn what the app does, who uses it, and which items come first. I also had to use the backlog to see the tasks that needed to be done and in which order.
+
+**Action:**
+I started by reading the whole backlog from top to bottom, to get the big picture of the project. Then I went back and read each item more slowly. The descriptions were useful because they told me exactly what each item should do, so I did not have to guess or keep asking the team basic questions.
+
+**Result:**
+The product backlog made it much easier for me to catch up and stay organised. I always knew what the project needed, what mattered most, and what I should work on next. It also helped me join the team's conversations with more confidence, because I knew what everyone was talking about.
+
