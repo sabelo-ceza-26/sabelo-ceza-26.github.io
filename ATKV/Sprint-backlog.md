@@ -1,153 +1,51 @@
-# Sabelo Ceza
-## 📞CONTACT DETAILS
-**Email:** 220094489@mycput.ac.za |
-**Phone:** 073 982 0683 |
-**LinkedIn:** [linkedin.com/in/sabelo-ceza-240b831b6](www.linkedin.com/in/sabelo-ceza-240b831b6) |
-**GitHub:** [github.com/sabelo-ceza-26](https://github.com/sabelo-ceza-26) |
-**Address:** 40 Station Road, Goodwood, Cape Town, 7460 
 
----
+# Sprint Backlog
 
-### 📄 CAREER SUMMARY
-I am a 3rd-year ICT Application Development student at Cape Peninsula University of Technology who is passionate about coding, UX design, and building user-friendly digital solutions and solving real-world problems through software.
+## Sprint 1 – Content and Resort Management
 
-I completed the FNB App Academy, where I gained practical experience in Python, Java, HTML, CSS, and JavaScript. I am seeking a Work Integrated Learning placement or entry-level position where I can apply my skills, gain experience within the industry, and contribute effectively to the team.
-I am committed to continuous learning, embracing new challenges, and pursuing professional growth while delivering meaningful results.
+| ID | Day / Activity | User Story | Tasks | Acceptance Criteria |
+|---|---|---|---|---|
+| SB01 | Activity 1: Writing Content in Two Languages | As an administrator, I want to write content in English and Afrikaans so that members can read content in their chosen language. | - Write content in English<br>- Write content in Afrikaans<br>- Switch between languages<br>- Save and publish content<br>- Validate required translations | - Content is saved in both languages.<br>- The administrator can identify the language being edited.<br>- Content cannot be published if a required translation is missing.<br>- Members see content in their selected language. |
+| SB02 | Activity 2: Targeting Content by Province | As an administrator, I want to target content at specific provinces so that members receive relevant information. | - Select provinces for content<br>- Save province selections<br>- Support nationwide content<br>- Apply content tags<br>- Send tags to supported publishing channels | - Content reaches members in the selected provinces.<br>- Content without a selected province reaches the whole country.<br>- Multiple provinces can be selected.<br>- Tags are saved and sent to supported channels. |
+| SB03 | Activity 3: Managing Resort Facilities and Entertainment | As an administrator, I want to manage resort facilities and entertainment so that members can see what a resort offers. | - Add and remove facilities<br>- Add entertainment information<br>- Add nearby attractions<br>- Upload entertainment pictures<br>- Upload and replace PDF programmes | - Facilities and entertainment are displayed on the resort page.<br>- Information is available in English and Afrikaans.<br>- Nearby attractions show their names and descriptions.<br>- Accepted PDF programmes can be opened or downloaded. |
+| SB04 | Activity 4: Managing Resort Accommodation | As an administrator, I want to manage resort accommodation so that members can compare and choose suitable places to stay. | - Add accommodation types<br>- Add names and descriptions<br>- Set guest capacity and indicative prices<br>- Upload and order pictures<br>- Select featured accommodation<br>- Manage amenities for each accommodation type | - Accommodation details are saved and displayed correctly.<br>- Content is available in both languages.<br>- Pictures appear in the selected order.<br>- Only one accommodation type is featured at a time.<br>- Amenities are linked to the correct accommodation type. |
 
-## 🎓 EDUCATION
+## Sprint 2 – Accommodation Search and Booking
 
-Hector Petersen High School – Grade 12 (2013 - 2017)
+| ID | Day / Activity | User Story | Tasks | Acceptance Criteria |
+|---|---|---|---|---|
+| SB05 | Activity 5: Starting a Booking from the Bookings Screen | As a member, I want to start a booking from my bookings screen so that I can search for accommodation easily. | - Add a Book a New Stay option<br>- Open the accommodation search screen<br>- Allow searches without a selected resort<br>- Support members with no previous bookings | - The accommodation search screen opens when selected.<br>- No resort is selected by default.<br>- Accommodation is not listed until a resort is selected.<br>- Starting or leaving a search does not create a booking. |
+| SB06 | Activity 6: Sorting Accommodation | As a member, I want to sort accommodation so that I can compare options that meet my needs. | - Sort by cost<br>- Sort by guest capacity<br>- Sort by availability<br>- Reset sorting when search filters change | - Accommodation is initially sorted from most expensive to least expensive.<br>- Members can sort by guest capacity and availability.<br>- Sorting does not remove accommodation from the list.<br>- Changing the resort or dates resets the default order. |
+| SB07 | Activity 7: Displaying Accommodation Details in Search Results | As a member, I want to see important accommodation details in the search results so that I can compare options easily. | - Display accommodation names<br>- Show accommodation pictures<br>- Display starting prices<br>- Show maximum guest capacity<br>- Add a View Details option | - Each accommodation type displays its name and pictures.<br>- Prices are shown as starting prices.<br>- Maximum guest capacity is displayed.<br>- Members can open the full accommodation details. |
+| SB08 | Activity 8: Showing Accommodation Availability | As a member, I want to see which accommodation is available for my dates so that I can choose a suitable stay. | - Display all accommodation types at a resort<br>- Check availability for selected dates<br>- Show Available or Booked statuses<br>- Update statuses when dates change | - All accommodation types are displayed, including unavailable ones.<br>- Accommodation is marked Available if a suitable unit is free for the full stay.<br>- Accommodation is marked Booked if it is unavailable for part of the stay.<br>- Changing dates updates availability. |
+| SB09 | Activity 9: Displaying Current Offers | As a member, I want to see current offers while searching for accommodation so that I can find available deals. | - Display current resort offers<br>- Match offers shown on other ATKV booking channels<br>- Hide expired offers<br>- Allow sorting, filtering, and scrolling while offers are displayed | - Current offers are displayed during searches.<br>- Offers match those available on other ATKV channels.<br>- Expired offers are not displayed.<br>- Offers do not prevent members from using the search features. |
+| SB10 | Activity 10: Starting a Booking from a Resort Page | As a member, I want to book directly from a resort page so that I can search that resort's accommodation quickly. | - Add a Book Now option<br>- Open accommodation search<br>- Select the resort automatically<br>- Display accommodation for that resort<br>- Allow the member to change resorts | - The accommodation search screen opens from the resort page.<br>- The resort the member came from is already selected.<br>- Only accommodation from that resort is initially displayed.<br>- Members can select another resort. |
+| SB11 | Activity 11: Filtering Accommodation by Resort and Dates | As a member, I want to filter accommodation by resort and dates so that I can find suitable places to stay. | - Select a resort<br>- Set check-in and check-out dates<br>- Keep the selected resort when dates change<br>- Keep filters visible while scrolling<br>- Validate the selected dates | - Only accommodation from the selected resort is displayed.<br>- Default dates are set according to the defined booking rules.<br>- Changing dates keeps the selected resort.<br>- Filters remain visible while scrolling.<br>- Check-out must be after check-in. |
+| SB12 | Activity 12: Confirming Accommodation and Member Details | As a member, I want my selected accommodation and personal details to appear automatically so that I can review them before booking. | - Display the selected accommodation<br>- Load the member's personal details<br>- Show name, identity number, email, and phone number<br>- Link the booking to the member's account<br>- Prevent incomplete searches from creating bookings | - The selected accommodation and its details are displayed.<br>- The member's saved details are filled in automatically.<br>- The booking is linked to the correct member.<br>- Leaving before completion does not create a booking or hold a unit. |
+| SB13 | Activity 13: Choosing Booking Dates | As a member, I want to select check-in and check-out dates so that my booking matches my planned stay. | - Select check-in date<br>- Select check-out date<br>- Check accommodation availability<br>- Prevent bookings for unavailable nights<br>- Prevent dates in the past | - The selected dates are saved for the booking.<br>- Unavailable nights cannot be booked.<br>- Check-out must be after check-in.<br>- Check-in cannot be before the current date. |
+| SB14 | Activity 14: Displaying Restaurant Menus and Promotions | As a guest, I want to view restaurant menus and special-occasion promotions so that I know what food and events are available at a resort. | - Add a restaurant section to the resort page<br>- Upload standard menus<br>- Upload special-occasion menus<br>- Add promotional images<br>- Display available restaurant content | - Saved menus are displayed in the restaurant section.<br>- Promotional images are shown to members.<br>- A restaurant section is hidden when no restaurant content exists.<br>- Booking restaurant tables or dinners is not included in this task. |
 
-Cape Peninsula University of Technology (CPUT)
-Diploma in Opticianry  -  (2020 – 2022)
+## Sprint 3 – Game Content and Season Management
 
-FNB App Academy  - (May 2025 – July 2025)
+| ID | Day / Activity | User Story | Tasks | Acceptance Criteria |
+|---|---|---|---|---|
+| SB15 | Activity 15: Managing Daily Game Content | As an administrator, I want to load game content for specific days so that players receive the correct content without requiring a new software release. | - Add content for a specific day<br>- Load content for several days<br>- Check for existing content<br>- Confirm content replacement<br>- Prevent changes to completed game days<br>- Display days with and without content | - Content is saved against the correct day.<br>- Each day has its own content.<br>- Existing content is replaced only after confirmation.<br>- Content for days already played cannot be changed.<br>- Daily content runs without a new release. |
+| SB16 | Activity 16: Opening a Season | As an administrator, I want to open a season for a project so that members can enter it. | - Set season dates<br>- Open a season<br>- Allow members to enter an open season<br>- Prevent entry when no season is open<br>- Support multiple seasons in the same year | - Members can enter an open season.<br>- Members cannot enter when no season is open.<br>- A new season can be opened after the previous season closes.<br>- Two seasons cannot be open on the same project at the same time.<br>- Required dates must be provided. |
+| SB17 | Activity 17: Setting Season Requirements | As an administrator, I want to set the requirements for a season so that members know what is needed for their entries. | - Set entry categories<br>- Set entry fees<br>- Define entry requirements and limits<br>- Set the closing date<br>- Set file size limits<br>- Display requirements before recording or uploading | - Season requirements are saved against the correct season.<br>- A season cannot open without required categories and a closing date.<br>- Members see applicable limits before recording or uploading.<br>- Files exceeding the allowed size are rejected before upload. |
+| SB18 | Activity 18: Closing a Season | As an administrator, I want to close a season so that entries are finalised and ready for marking. | - Close an open season<br>- Prevent new entries after closing<br>- Prevent changes to submitted entries<br>- Keep unfinished entries visible<br>- Apply the closing date rules | - A closed season does not accept new entries.<br>- Members cannot pay for, edit, or replace entry material after closing.<br>- Unpaid entries remain visible as unfinished.<br>- Entries are not submitted for marking if they were not completed. |
+| SB19 | Activity 19: Allocating Entries to Adjudicators | As an administrator, I want to allocate entries to adjudicators so that each entry can be reviewed by the correct person. | - View submitted entries<br>- Select an adjudicator<br>- Allocate entries for marking<br>- Save allocation details<br>- Prevent unauthorised access to entries | - Entries can be allocated to an adjudicator.<br>- Allocation details are saved.<br>- Adjudicators can access entries allocated to them.<br>- Entries are not made available to unrelated adjudicators. |
+| SB20 | Activity 20: Viewing Submitted Entries | As an administrator, I want to view submitted entries so that I can monitor entries received for a season. | - Open the submitted entries list<br>- View entry information<br>- Identify submitted entries<br>- Review entry status | - Submitted entries are visible to the administrator.<br>- Entry information and status are displayed correctly.<br>- Entries can be reviewed for further processing. |
+| SB21 | Activity 21: Managing Game Information | As an administrator, I want to describe what a game offers so that members understand the game before taking part. | - Enter game information<br>- Save the game description<br>- Display the information to members<br>- Update the information when required | - Game information is saved correctly.<br>- Members can view the information about the game.<br>- Updated information is displayed after saving. |
+| SB22 | Activity 22: Setting the Counted Run Length | As an administrator, I want to set the run length that counts so that entries are assessed according to the correct limit. | - Set the required run length<br>- Save the run length against the season or entry rules<br>- Apply the limit when entries are reviewed | - The run-length requirement is saved.<br>- The correct limit is available when entries are assessed.<br>- Entries can be checked against the configured requirement. |
+| SB23 | Activity 23: Removing Material Held Against Entries | As an administrator, I want to remove material held against entries so that incorrect or unwanted material can be managed. | - View material linked to entries<br>- Select material for removal<br>- Remove the selected material<br>- Check that the change is saved | - Selected material is removed from the entry.<br>- Unselected material remains unchanged.<br>- The updated entry reflects the removal. |
+| SB24 | Activity 24: Cancelling a Season and Returning Payments | As an administrator, I want to cancel a season and return payments so that members are handled correctly when a season cannot continue. | - Cancel a season<br>- Prevent further entries<br>- Identify affected payments<br>- Return payments according to the cancellation process<br>- Update the season status | - The season is marked as cancelled.<br>- Members cannot continue entering the cancelled season.<br>- Affected payments are returned according to the defined rules.<br>- The cancellation status is recorded. |
 
-Cape Peninsula University of Technology (CPUT)
-Diploma: ICT in Applications Development  -  (2024 – Present)
+## Sprint 4 – Entry Review and Adjudication
 
-## PROJECTS (2024 - Present)
-
-**ClinicConnect (Ongoing)**
-- Building a system for booking clinic appointments  
-- Connecting the system to a database  
-- Creating different dashboards for users (patients, doctors, nurses, admin)  
-- Using object-oriented programming  
-
-**FindX – Lost and Found Application Development**
-- Developed a lost-and-found mobile/desktop application using Java.
-- Designed and implemented core features for item reporting, searching, claiming, and user registration.
-- Developed the application in Apache NetBeans and used the built-in NetBeans database to store, manage and retrieve data.
-- Used problem-solving and database skills to handle data efficiently and make the system easy to use.
-
-**Alluring Aura – Beauty Website**
-- Developed a responsive, user-friendly beauty website using HTML, CSS, and JavaScript in Visual Studio Code.
-- Implemented features that allow users to view products and submit queries through the website.
-
-**Mindful-Minds NGO**
-- Developed a responsive, user-friendly website for the NGO using HTML, CSS, and JavaScript in Visual Studio Code.  
-- Showcased the organization’s mission, programs, and donation options.  
-- Implemented features that allow users to learn about mental health services and submit inquiries online.  
-
-**Spotify App Redesign**
-- Redesigned the Spotify application using Figma  
-- Improved the layout, navigation, and the overall user experience  
-- Created interactive prototypes to show application flow  
-
-**Student Enrollment Development - Java Client–Server Application**
-- Developed a Java client-server application with GUI for student enrolment.
-- Linked the system to a Derby database to store and manage students, courses, and enrolments.
-- Built a system to send and receive data through client-server connections with serialization.
-  
-## 🛠️ TECHNICAL SKILLS
-
-### Core Skills
-- Troubleshooting  
-- Problem-solving  
-  
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-</p>
-
-HTML | CSS | Java | JavaScript | Python | PHP | SQL (MySQL)
-
----
-
-### IDEs & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="25"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="25"/>
-</p>
-
-IntelliJ IDEA | Figma | NetBeans | VS Code | PyCharm | Thonny | MySQL Workbench | Canva | Xampp
-
----
-
-### Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/>
-
-  
-</p>
-
-Laravel | React Native | Springboot
-
----
-
-
-##  📄 REFERENCES
-- Mandisa Msongelwa | ICT Mentor | **Phone:** 078 691 2208
-- Mrs Rebecca Bure | CPUT Lecturer |**Phone:** 074 705 4403  |**Email:** burer@cput.ac.za 
-
-
-
-# Mock Interview  Video
-
-<video width="600" controls>
-  <source src="assets/Mock_Interview_Vide.mp4" type="video/mp4">
-</video> 
-
-# Reflection on coding using Markdown
-**Situation:** For this assignment, I was given a task to create a portolio and code my CV using the Markdown language.
-
-**Task:** My goal was to figure out how the language works and create a CV that looked clean and professional using the markdown syntax.
-
-**Action:** I spent time watching tutorial videos, doing some research and I also asked for help from people who understood Markdown better than I did. After getting all the information, I used what I learned to code the CV and create a well-organized portfolio.
-
-**Result:** I managed to completely code my CV using Markdown language and produced a well-organized porfolio. Finishing this task successfully helped me feel more confident in learning the Markdown language and using it to create something clear and well organized, even though I did not know it before.
-
-# Reflection on Mock Video Interview
-
-**Situation:** I was tasked to make a mock interview video where I had to answer a few interview questions. The purpose of this video was to train me for real job interviews. 
-
-**Task:** I had to produce a professional mock video where I had to speak clearly and with confidence while answering the questions using the star method.
-
-**Action:** I took some time to understand the questions clearly and practice my answers before recording the video. As I kept going, I started to feel more comfortable talking to the camera. I took time getting the task done because while recording I was considering all the aspects I was told to consider, like being audible, having no background noise, and maintaining eye contact.
-
-**Result:** I successfully finished the task with all the questions answered, and the experience gave me a glimpse of how real interviews will be. I produced a professional mock video interview.
-
-# Reflection on GitHub pages
-
-**Situation:** I was given a task to publish my portfolio using GitHub pages so that it can be available online.
-
-**Task:** My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment.
-
-**Action:** I started by reading through the instructions on the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected.
-
-**Result:** Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my porfolio live and that gave confidence that everything was indeed working properly.
-
+| ID | Day / Activity | User Story | Tasks | Acceptance Criteria |
+|---|---|---|---|---|
+| SB25 | Activity 25: Viewing Allocated Entries | As an adjudicator, I want to see only entries allocated to me so that I can focus on my assigned work. | - Sign in as an adjudicator<br>- Retrieve allocated entries<br>- Hide entries assigned to other adjudicators<br>- Display the relevant entry information | - The adjudicator sees entries allocated to them.<br>- Entries allocated to other adjudicators are not accessible through their list.<br>- Entry information is displayed correctly. |
+| SB26 | Activity 26: Reviewing an Entry | As an adjudicator, I want to review an allocated entry so that I can assess the submitted work. | - Open an allocated entry<br>- View its submitted details<br>- Review the submitted material<br>- Check that the entry belongs to the adjudicator's allocation | - The adjudicator can open an allocated entry.<br>- The entry's relevant details and material are available for review.<br>- Entries outside the adjudicator's allocation cannot be reviewed. |
+| SB27 | Activity 27: Taking a Recording Away to Watch | As an adjudicator, I want to take an entry recording away to watch so that I can review it when needed. | - Open the allocated recording<br>- Access the recording for review<br>- Support watching the recording away from the original screen<br>- Keep the recording linked to the correct entry | - The adjudicator can access the recording for review.<br>- The recording remains linked to the correct entry.<br>- Access is limited to the relevant allocated entry. |
+| SB28 | Activity 28: Recording an Entry Outcome | As an adjudicator, I want to record the outcome of an entry so that the result of the review is saved. | - Review the entry<br>- Enter the outcome<br>- Save the outcome<br>- Display the saved result<br>- Prevent unauthorised changes | - The outcome is saved against the correct entry.<br>- The saved outcome can be viewed later.<br>- The outcome is linked to the entry being reviewed. |
+| SB29 | Activity 29: Recording Outcomes for Team Members | As an adjudicator, I want to record an outcome for each speaker in a team entry so that every speaker receives the correct result. | - Open a team entry<br>- Identify each speaker<br>- Record an outcome for each speaker<br>- Save the outcomes against the correct speakers<br>- Review saved outcomes | - Each speaker can have an individual outcome recorded.<br>- Outcomes are linked to the correct speakers and team entry.<br>- Saved outcomes can be reviewed. |
