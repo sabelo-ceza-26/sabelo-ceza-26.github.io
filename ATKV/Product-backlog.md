@@ -1,37 +1,39 @@
-### PRODUCT BACKLOG
+# PRODUCT BACKLOG
 
 | Backlog ID | Product Backlog Item | Description / Tasks | Priority |
 |---|---|---|---|
-| PB01 (PBI 99334) | A member starts a booking from their bookings screen | Allow a member to open accommodation search from their bookings screen. | High |
-| PB02 (PBI 99335) | A member starts a booking from a resort page | Open accommodation search with the selected resort already chosen. | High |
-| PB03 (PBI 99336) | A member filters accommodation by resort and dates | Filter accommodation results by resort and selected check-in/check-out dates. | High |
-| PB04 (PBI 99337) | A member sorts the accommodation list | Sort accommodation results by price, capacity, or availability. | Medium |
-| PB05 (PBI 99338) | Accommodation shows whether it is free for the chosen dates | Show every unit type and its availability for the selected dates. | High |
-| PB06 (PBI 99339) | A unit type in the list shows enough to compare it | Show each unit type’s name, image, price, and capacity for easy comparison. | Medium |
-| PB07 (PBI 99341) | A member sees the current offers while searching | Display current ATKV offers while a member searches for accommodation. | Medium |
-| PB08 (PBI 99343) | A member confirms the unit type and their own details | Pre-fill the booking screen with the chosen unit type and member details. | High |
-| PB09 (PBI 99344) | A member chooses the dates for their booking | Let members select available check-in and check-out dates for their booking. | High |
+| PB01 (PBI 99334) | A member starts a booking from their bookings screen | Add a Book a New Stay option, open accommodation search, allow searches without a selected resort, and support members who have no previous bookings. | High |
+| PB02 (PBI 99335) | A member starts a booking from a resort page | Add a Book Now option, open accommodation search, select the resort automatically, display its accommodation, and allow members to change resorts. | High |
+| PB03 (PBI 99336) | A member filters accommodation by resort and dates | Allow members to select a resort and check-in/check-out dates. Keep the selected resort when dates change, keep filters visible while scrolling, and validate the dates. | High |
+| PB04 (PBI 99337) | A member sorts the accommodation list | Allow members to sort accommodation by cost, guest capacity, and availability. Keep all accommodation in the list and reset the default order when filters change. | Medium |
+| PB05 (PBI 99338) | Accommodation shows whether it is free for the chosen dates | Display all accommodation types at the selected resort, check availability for the chosen dates, show Available or Booked statuses, and update statuses when dates change. | High |
+| PB06 (PBI 99339) | A unit type in the list shows enough to compare it | Display accommodation names, pictures, starting prices, and maximum guest capacity. Add a View Details option to open the full accommodation information. | Medium |
+| PB07 (PBI 99341) | A member sees the current offers while searching | Display current ATKV offers, match offers shown on other ATKV booking channels, hide expired offers, and allow members to filter, sort, and scroll while offers are displayed. | Medium |
+| PB08 (PBI 99343) | A member confirms the unit type and their own details | Display the selected accommodation and automatically load the member's name, identity number, email address, and phone number. Link the booking to the member's account and prevent incomplete bookings from being created. | High |
+| PB09 (PBI 99344) | A member chooses the dates for their booking | Allow members to select check-in and check-out dates, check accommodation availability, prevent bookings for unavailable nights, and reject dates in the past. | High |
 | PB10 (PBI 99407) | The mobile app offers no administration | Keep administration functions in the Admin Portal and out of the member app. | High |
-| PB11 (PBI 103125) | As an Adjudicator, I log into ATKV Admin Portal and See What Applies to Me | Allow adjudicators to sign in to the Admin Portal and access only the Digi Projects relevant to them. | High |
-| PB12 (PBI 99413) | An administrator writes content in English and in Afrikaans | Let administrators create and manage content in English and Afrikaans. | High |
-| PB13 (PBI 99417) | An administrator targets content at a province | Let administrators target content to a selected province. | Medium |
-| PB14 (PBI 103111) | An administrator chooses the channels a piece of content is published to | Let administrators choose which channels should publish each piece of content. | Medium |
-| PB15 (PBI 103113) | Published news reaches the news section of the main ATKV website | Publish news content to the main ATKV website news section. | Medium |
-| PB16 (PBI 103114) | Resort promotions and blog posts reach the resort websites in each language | Publish resort promotions and blog posts to resort websites in the relevant language. | Medium |
-| PB17 (PBI 99423) | An administrator edits a resort's accommodation | Let administrators update resort accommodation information. | High |
-| PB18 (PBI 99424) | An administrator edits a resort's facilities and entertainment | Let administrators update resort facilities and entertainment information. | High |
-| PB19 (PBI 101086) | An administrator loads the content a game runs on, against the day it is played | Let administrators load daily game content for the day it will be played. | Medium |
-| PB20 (PBI 101087) | An administrator opens a season on a project | Let administrators open a new season for a Digi Project. | High |
-| PB21 (PBI 101088) | An administrator sets what a season asks for | Let administrators configure the requirements and judging scheme for a season. | High |
-| PB22 (PBI 101089) | An administrator closes a season | Let administrators close a season so entries can proceed to adjudication. | High |
-| PB23 (PBI 101090) | An administrator allocates entries to an adjudicator | Let administrators assign submitted entries to adjudicators. | High |
-| PB24 (PBI 101091) | An administrator sees what has been entered | Let administrators view submitted entries and their progress. | Medium |
-| PB25 (PBI 101092) | An administrator writes what a game offers | Let administrators manage the descriptions and offers shown for daily games. | Medium |
-| PB26 (PBI 101093) | An administrator sets the length of a run that counts | Let administrators configure the consecutive-day run needed to qualify. | Medium |
-| PB27 (PBI 101094) | An administrator removes the material held against entries | Let administrators remove entry files while retaining relevant results and records. | Medium |
-| PB28 (PBI 101095) | An administrator cancels a season and returns what was paid | Let administrators cancel a season and arrange refunds for payments made. | Medium |
-| PB29 (PBI 101098) | An adjudicator sees only the entries allocated to them | Restrict adjudicators to entries assigned to them and block access to other entries. | High |
-| PB30 (PBI 101099) | An adjudicator watches or reads an entry | Let adjudicators open and review submitted entry material in the portal. | High |
-| PB31 (PBI 101100) | An adjudicator takes an entry away to watch it | Let adjudicators download recordings for offline review while recording results in the portal. | Medium |
-| PB32 (PBI 101101) | An adjudicator records the outcome of an entry | Let adjudicators record an entry’s outcome so the entrant can access the result and certificate. | High |
-| PB33 (PBI 101102) | An adjudicator records an outcome for each speaker in a team entry | Let adjudicators record a separate outcome and certificate for each speaker in a team entry. | High |
+| PB11 (PBI 103125) | As an Adjudicator, I log into ATKV Admin Portal and See What Applies to Me | Allow adjudicators to sign in to the Admin Portal and access only the Digi Projects and information relevant to their role. | High |
+| PB12 (PBI 99413) | An administrator writes content in English and in Afrikaans | Allow administrators to write, edit, save, and publish content in English and Afrikaans. Support switching between languages and checking that required translations are provided before publishing. | High |
+| PB13 (PBI 99417) | An administrator targets content at a province | Allow administrators to select one or more provinces, save province selections, support nationwide content, apply content tags, and send tags to supported publishing channels. | Medium |
+| PB14 (PBI 103111) | An administrator chooses the channels a piece of content is published to | Allow administrators to select the publishing channels for each piece of content and send the content to the selected supported channels. | Medium |
+| PB15 (PBI 103113) | Published news reaches the news section of the main ATKV website | Publish news content to the main ATKV website's news section through the selected publishing channel. | Medium |
+| PB16 (PBI 103114) | Resort promotions and blog posts reach the resort websites in each language | Publish resort promotions and blog posts to the relevant resort websites and language versions. | Medium |
+| PB17 (PBI 99423) | An administrator edits a resort's accommodation | Allow administrators to add accommodation types, names, and descriptions; set guest capacity and indicative prices; upload and order pictures; select featured accommodation; and manage amenities. | High |
+| PB18 (PBI 99424) | An administrator edits a resort's facilities and entertainment | Allow administrators to add and remove facilities, manage entertainment information and nearby attractions, upload pictures, and upload or replace PDF programmes. | High |
+| PB19 (PBI 101086) | An administrator loads the content a game runs on, against the day it is played | Allow administrators to load content for specific days, manage content for multiple days, check existing content, confirm replacements, prevent changes to completed game days, and view days with or without content. | Medium |
+| PB20 (PBI 101087) | An administrator opens a season on a project | Allow administrators to set season dates and open a season for entries. Support multiple seasons in the same year, prevent two seasons from being open on the same project at once, and require the necessary dates. | High |
+| PB21 (PBI 101088) | An administrator sets what a season asks for | Allow administrators to set entry categories, fees, entry requirements, category limits, closing dates, and file size limits. Display requirements and limits before members record or upload entries. | High |
+| PB22 (PBI 101089) | An administrator closes a season | Allow administrators to close an open season, prevent new entries and changes after closing, keep unfinished entries visible, and apply the season's closing-date rules. | High |
+| PB23 (PBI 101090) | An administrator allocates entries to an adjudicator | Allow administrators to view submitted entries, select adjudicators, assign entries for marking, save allocations, and control access to allocated entries. | High |
+| PB24 (PBI 101091) | An administrator sees what has been entered | Allow administrators to view submitted entries, check entry information and status, identify unfinished entries, and monitor marking progress. | Medium |
+| PB25 (PBI 101092) | An administrator writes what a game offers | Allow administrators to enter, save, display, and update game descriptions and pictures so members can understand what a daily game offers. | Medium |
+| PB26 (PBI 101093) | An administrator sets the length of a run that counts | Allow administrators to set and save the required number of consecutive days for a run and apply the configured length when measuring members' runs. | Medium |
+| PB27 (PBI 101094) | An administrator removes the material held against entries | Allow administrators to view material linked to entries, select material for removal, remove the selected files, and check that the changes are saved. | Medium |
+| PB28 (PBI 101095) | An administrator cancels a season and returns what was paid | Allow administrators to cancel a season, prevent further entries, identify affected payments, arrange refunds according to the cancellation process, and update the season status. | Medium |
+| PB29 (PBI 101098) | An adjudicator sees only the entries allocated to them | Allow adjudicators to sign in, view their allocated entries, and prevent them from accessing entries assigned to other adjudicators. | High |
+| PB30 (PBI 101099) | An adjudicator watches or reads an entry | Allow adjudicators to open allocated entries, view their details, and review submitted material while preventing access to entries outside their allocation. | High |
+| PB31 (PBI 101100) | An adjudicator takes an entry away to watch it | Allow adjudicators to access and download recordings for offline review while keeping each recording linked to the correct entry and restricting access to allocated entries. | Medium |
+| PB32 (PBI 101101) | An adjudicator records the outcome of an entry | Allow adjudicators to review an entry, enter and save its outcome, and make the saved result available for later viewing. | High |
+| PB33 (PBI 101102) | An adjudicator records an outcome for each speaker in a team entry | Allow adjudicators to identify each speaker in a team entry, record a separate outcome for each speaker, save the outcomes against the correct people, and review the saved results. | High |
+
+# REFLECTION
