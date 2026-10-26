@@ -498,6 +498,3 @@ Before I started a task, I first read the user story for that day. This helped m
 **Result:**
 The user stories and tasks made it much easier for me to stay organised. I always knew what task I had to do and when it was due. It stopped me from forgetting tasks, and it made me responsible for my own work, because my name was beside each task.
 
-
-
-I learned that writing the work as user stories keeps me focused on the user and not only on the code. I also learned that clear tasks with clear owners save time, because people can start working straight away. In the next sprints, I will keep checking my tasks every day, and I will talk to my team early if my work depends on theirs, so we can finish the project on time.
