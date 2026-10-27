@@ -168,8 +168,11 @@ People who can provide further information about my academic progress and profes
 
 <div align="center">
 
-**WORK INTEGRATED LEARNING PORTFOLIO · 2026**
+<p><strong>WORK INTEGRATED LEARNING PORTFOLIO · 2026</strong></p>
 
-[![VIEW MY PORTFOLIO](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D)](https://github.com/sabelo-ceza-26/sabelo-ceza-26.github.io/blob/main/Document.md)
+<a href="https://github.com/sabelo-ceza-26/sabelo-ceza-26.github.io/blob/main/Document.md">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D" alt="VIEW MY PORTFOLIO">
+</a>
 
 </div>
+
