@@ -158,17 +158,15 @@ People who can provide further information about my academic progress and profes
 
 ## 💭 Reflection on GitHub Pages
 
-| | |
-|:--|:--|
-| **Situation** | I was given a task to publish my portfolio using GitHub Pages so that it can be available online. |
-| **Task** | My main goal was to understand how GitHub Pages works and to successfully deploy/publish my portfolio online as required for the assignment. |
-| **Action** | I started by reading through the instructions in the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected. |
-| **Result** | Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my portfolio live and that gave me confidence that everything was indeed working properly. |
-
-<div align="center">
+| **Stage** | **Reflection** |
+|---|---|
+| **Situation** | I was given a task to publish my portfolio using GitHub Pages so that it could be viewed online. |
+| **Task** | My goal was to understand how GitHub Pages works and publish my portfolio as required for the assignment. |
+| **Action** | I followed the study guide step by step and tested the live website to check that it displayed correctly. |
+| **Result** | I successfully published my portfolio using GitHub Pages. Seeing my work online gave me confidence that I could publish a website. |
 
 **WORK INTEGRATED LEARNING PORTFOLIO · 2026**
 
-[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D)](https://github.com/sabelo-ceza-26/sabelo-ceza-26.github.io/blob/main/Document.md)
+[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D)](https://sabelo-ceza-26.github.io/)<div align="center">
 
 </div>
