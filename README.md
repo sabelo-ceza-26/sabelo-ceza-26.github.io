@@ -165,4 +165,4 @@ People who can provide further information about my academic progress and profes
 | **Action** | I started by reading through the instructions in the study guide and tried to follow them step by step. As I followed the instructions provided, the process slowly started to make more sense, and I became more confident in what I was doing. I tested the live URL to confirm that everything was working properly and displaying as expected. |
 | **Result** | Finally, I was able to successfully publish my portfolio using GitHub Pages. I could see my portfolio live and that gave me confidence that everything was indeed working properly. |
 
-
+[![View My Portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D)](https://github.com/sabelo-ceza-26/sabelo-ceza-26.github.io/blob/main/Document.md)
