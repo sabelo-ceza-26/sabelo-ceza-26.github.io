@@ -165,8 +165,11 @@ People who can provide further information about my academic progress and profes
 | **Action** | I followed the study guide step by step and tested the live website to check that it displayed correctly. |
 | **Result** | I successfully published my portfolio using GitHub Pages. Seeing my work online gave me confidence that I could publish a website. |
 
+
+<div align="center">
+
 **WORK INTEGRATED LEARNING PORTFOLIO · 2026**
 
-[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D)](https://sabelo-ceza-26.github.io/)<div align="center">
+[![VIEW MY PORTFOLIO](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-527D7A?style=for-the-badge&labelColor=344F4D)](https://github.com/sabelo-ceza-26/sabelo-ceza-26.github.io/blob/main/Document.md)
 
 </div>
