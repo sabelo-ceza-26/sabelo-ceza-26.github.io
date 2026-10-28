@@ -89,7 +89,7 @@
 ## 💼 Work Experience
  
 > ### Intern Developer · Full Stack
-> *17 September - Present*
+> *17 September 2026 - Present*
 >
 > - Developing a bilingual (Afrikaans/English) Progressive Web App using .NET 9 and Blazor WebAssembly
 > - Connecting the app to other business systems and building features from start to finish
@@ -142,7 +142,7 @@
 >- Connecting the app to other business systems.
 >- Developing features and improving the user experience.
  
-**Technologies:** .NET 9, Blazor WebAssembly, Azure
+>**Technologies:** .NET 9, Blazor WebAssembly, Azure
  
  
 <a name="project-laundry"></a>
@@ -191,23 +191,24 @@
 <a name="references"></a>
  
 ## 🌿 References
- 
+
 People who can provide further information about my academic progress and professional experience.
- 
+
 <details>
-<summary><strong> Mandisa Msongelwa</strong> — ICT Mentor</summary>
- 
+<summary><strong>Mandisa Msongelwa</strong> — ICT Mentor</summary>
+
 - **Phone:** 078 691 2208
- 
+
 </details>
- 
+
 <details>
-<summary><strong> Mrs Rebecca Bure</strong> — CPUT Lecturer</summary>
- 
+<summary><strong>Mrs Rebecca Bure</strong> — CPUT Lecturer</summary>
+
 - **Phone:** 074 705 4403
 - **Email:** [burer@cput.ac.za](mailto:burer@cput.ac.za)
- 
+
 </details>
+
  
  
 <a name="mock-interview-video"></a>
