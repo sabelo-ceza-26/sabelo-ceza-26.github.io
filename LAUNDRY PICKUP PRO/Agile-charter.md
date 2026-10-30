@@ -182,18 +182,141 @@ Our team will review and update the charter during retrospectives to ensure it r
  
 [Agile Team Charter – Laundry Pickup Pro](../PROJECT%20DOCUMENTS/Agile%20Team%20Charter%20Laundry%20Pickup%20Pro.pdf) <br>
  
-#### REFLECTION ON AGILE TEAM CHARTER
-**Situation:**
-My team and I had to create an Agile Team Charter for our Laundry Pickup Pro project. The charter helped us understand what we wanted to achieve. It also set out how we would manage our tasks, run our meetings, and work together to reach our goals as a team.
- 
-**Task:**
-As the Agile Lead, it was my job to help get the team organised and make sure everyone knew what they were responsible for. I also had to keep the project moving in the right direction. On top of that, we needed to agree on how we will we communicate with each other and how we would handle problems when they came up.
- 
-**Action:**
-As the Agile Lead, I sat down with the team and we worked out who would do what. We also agreed on when we would meet and the rules we would follow when working together. For communication, we decided to use Microsoft Teams for our meetings, WhatsApp for urgent messages, and email for anything formal. We also set up a product backlog, which gave us one place to list all our tasks and decide which ones to do first.
- 
-**Result:**
-In the end, we had a clear plan that showed everyone what their role was. The biggest challenge was getting everyone to understand how we would tackle the work and how the application will look like. We fixed this by talking it through as a team until everyone was on the same page. This made it easier to work together and stopped a lot of confusion.
-From this task, I learned that good communication, teamwork, and planning really matter for a project to succeed. I also learned what it means to take responsibility as an Agile Lead and how to keep the team focused on our goals.
+<style>
+.reflection-card {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background: radial-gradient(circle at top, rgba(66, 185, 131, 0.14), transparent 55%), linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 40px 70px -50px rgba(15, 23, 42, 0.9);
+  margin: 2rem 0;
+}
+
+.reflection-card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+}
+
+.reflection-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.reflection-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.reflection-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 10px;
+  color: #94a3b8;
+}
+
+.reflection-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.reflection-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #42b983 0%, #527d7a 100%);
+  color: #ffffff;
+  box-shadow: 0 24px 50px -24px rgba(66, 185, 131, 0.95);
+}
+
+.reflection-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.reflection-table thead th {
+  text-align: left;
+  padding: 14px 22px;
+  background: linear-gradient(90deg, rgba(66, 185, 131, 0.12) 0%, rgba(248, 250, 252, 1) 100%);
+  color: #0f766e;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-size: 10px;
+}
+
+.reflection-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.reflection-table tbody td {
+  padding: 18px 22px;
+  color: #475569;
+  line-height: 1.9;
+  vertical-align: top;
+}
+
+.reflection-table tbody td:first-child {
+  width: 140px;
+  font-weight: 700;
+  color: #1e293b;
+}
+</style>
+
+<div class="reflection-card">
+  <div class="reflection-card-content">
+    <div class="reflection-header">
+      <div class="reflection-title-group">
+        <span class="reflection-subtitle">Laundry Pickup Pro</span>
+        <h2 class="reflection-title">Agile Team Charter – Reflection</h2>
+      </div>
+      <div class="reflection-index">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z"/></svg>
+      </div>
+    </div>
+    <table class="reflection-table">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Reflection</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Situation</td>
+          <td>My team and I had to create an Agile Team Charter for our Laundry Pickup Pro project. The charter helped us understand what we wanted to achieve. It also set out how we would manage our tasks, run our meetings, and work together to reach our goals as a team.</td>
+        </tr>
+        <tr>
+          <td>Task</td>
+          <td>As the Agile Lead, it was my job to help get the team organised and make sure everyone knew what they were responsible for. I also had to keep the project moving in the right direction. On top of that, we needed to agree on how we would communicate with each other and how we would handle problems when they came up.</td>
+        </tr>
+        <tr>
+          <td>Action</td>
+          <td>As the Agile Lead, I sat down with the team and we worked out who would do what. We also agreed on when we would meet and the rules we would follow when working together. For communication, we decided to use Microsoft Teams for our meetings, WhatsApp for urgent messages, and email for anything formal. We also set up a product backlog, which gave us one place to list all our tasks and decide which ones to do first.</td>
+        </tr>
+        <tr>
+          <td>Result</td>
+          <td>In the end, we had a clear plan that showed everyone what their role was. The biggest challenge was getting everyone to understand how we would tackle the work and how the application would look. We fixed this by talking it through as a team until everyone was on the same page. This made it easier to work together and stopped a lot of confusion. From this task, I learned that good communication, teamwork, and planning really matter for a project to succeed. I also learned what it means to take responsibility as an Agile Lead and how to keep the team focused on our goals.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
  
  

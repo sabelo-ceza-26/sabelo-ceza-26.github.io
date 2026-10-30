@@ -99,16 +99,139 @@
 You can view the sprint backlog on the Trello board here: [Laundry Pickup Pro Trello Board](https://trello.com/b/D6tnqbrx/project-presentation-3)
 
 
-### REFLECTION ON SPRINT BACKLOG
+<style>
+.reflection-card {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background: radial-gradient(circle at top, rgba(66, 185, 131, 0.14), transparent 55%), linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 40px 70px -50px rgba(15, 23, 42, 0.9);
+  margin: 2rem 0;
+}
 
-**Situation:**
-For the Laundry Pickup Pro project, my team and I used a sprint backlog. It breaks the product backlog into smaller pieces of work that can be finished in short sprints. Each item had a day, a user story, and a list of tasks. We need a sprint backlog because the product backlog on its own is too big to work from day to day. The sprint backlog shows what we must finish in each sprint, and on which day, so the work feels manageable and nobody is unsure about what comes next.
+.reflection-card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+}
 
-**Task:**
-My task was to use the sprint backlog to plan and organise my work. I had to read each item carefully, understand the tasks allocated to me, and check the acceptance criteria so I know exactly what was required from me. I also had to follow the order of the sprints and keep up with the daily schedule.
+.reflection-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
 
-**Action:**
-I used the sprint backlog as my daily plan. This meant I only had to focus on one thing at a time instead of worrying about the whole project. Before working on a sprint, I read the user story to fully understand it. Then I go through the task list to check what was allocated to me and used it as a checklist. The acceptance criteria they told me exactly what had to be true before I could say my work was done. When I finished a task, I checked it against these criteria to make sure I had not missed anything.
+.reflection-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
 
-**Result:**
-The sprint backlog made it much easier for me to stay organised. I always knew what to work on each day, and I knew what a finished task looked like. It stopped me from forgetting tasks and from doing work in the wrong order. It also made the big project feel smaller, because I only had to think about one sprint at a time. It helped the team too, because everyone was working from the same plan. I learned that breaking a big project into small parts saves time and reduces stress. 
+.reflection-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 10px;
+  color: #94a3b8;
+}
+
+.reflection-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.reflection-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #42b983 0%, #527d7a 100%);
+  color: #ffffff;
+  box-shadow: 0 24px 50px -24px rgba(66, 185, 131, 0.95);
+}
+
+.reflection-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.reflection-table thead th {
+  text-align: left;
+  padding: 14px 22px;
+  background: linear-gradient(90deg, rgba(66, 185, 131, 0.12) 0%, rgba(248, 250, 252, 1) 100%);
+  color: #0f766e;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-size: 10px;
+}
+
+.reflection-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.reflection-table tbody td {
+  padding: 18px 22px;
+  color: #475569;
+  line-height: 1.9;
+  vertical-align: top;
+}
+
+.reflection-table tbody td:first-child {
+  width: 140px;
+  font-weight: 700;
+  color: #1e293b;
+}
+</style>
+
+<div class="reflection-card">
+  <div class="reflection-card-content">
+    <div class="reflection-header">
+      <div class="reflection-title-group">
+        <span class="reflection-subtitle">Laundry Pickup Pro</span>
+        <h2 class="reflection-title">Sprint Backlog – Reflection</h2>
+      </div>
+      <div class="reflection-index">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 12h16.5m-16.5 3.75h16.5M3.75 19.5h16.5M5.625 4.5h12.75a1.875 1.875 0 010 3.75H5.625a1.875 1.875 0 010-3.75z"/></svg>
+      </div>
+    </div>
+    <table class="reflection-table">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Reflection</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Situation</td>
+          <td>For the Laundry Pickup Pro project, my team and I used a sprint backlog. It breaks the product backlog into smaller pieces of work that can be finished in short sprints. Each item had a day, a user story, and a list of tasks. We need a sprint backlog because the product backlog on its own is too big to work from day to day. The sprint backlog shows what we must finish in each sprint, and on which day, so the work feels manageable and nobody is unsure about what comes next.</td>
+        </tr>
+        <tr>
+          <td>Task</td>
+          <td>My task was to use the sprint backlog to plan and organise my work. I had to read each item carefully, understand the tasks allocated to me, and check the acceptance criteria so I knew exactly what was required from me. I also had to follow the order of the sprints and keep up with the daily schedule.</td>
+        </tr>
+        <tr>
+          <td>Action</td>
+          <td>I used the sprint backlog as my daily plan. This meant I only had to focus on one thing at a time instead of worrying about the whole project. Before working on a sprint, I read the user story to fully understand it. Then I went through the task list to check what was allocated to me and used it as a checklist. The acceptance criteria told me exactly what had to be true before I could say my work was done. When I finished a task, I checked it against these criteria to make sure I had not missed anything.</td>
+        </tr>
+        <tr>
+          <td>Result</td>
+          <td>The sprint backlog made it much easier for me to stay organised. I always knew what to work on each day, and I knew what a finished task looked like. It stopped me from forgetting tasks and from doing work in the wrong order. It also made the big project feel smaller, because I only had to think about one sprint at a time. It helped the team too, because everyone was working from the same plan. I learned that breaking a big project into small parts saves time and reduces stress.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

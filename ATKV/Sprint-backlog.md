@@ -50,16 +50,139 @@
 | SB28 | Activity 28: Recording an Entry Outcome | As an adjudicator, I want to record the outcome of an entry so that the result of the review is saved. | - Review the entry<br>- Enter the outcome<br>- Save the outcome<br>- Display the saved result<br>- Prevent unauthorised changes | - The outcome is saved against the correct entry.<br>- The saved outcome can be viewed later.<br>- The outcome is linked to the entry being reviewed. |
 | SB29 | Activity 29: Recording Outcomes for Team Members | As an adjudicator, I want to record an outcome for each speaker in a team entry so that every speaker receives the correct result. | - Open a team entry<br>- Identify each speaker<br>- Record an outcome for each speaker<br>- Save the outcomes against the correct speakers<br>- Review saved outcomes | - Each speaker can have an individual outcome recorded.<br>- Outcomes are linked to the correct speakers and team entry.<br>- Saved outcomes can be reviewed. |
 
-### REFLECTION ON THE SPRINT BACKLOG OF ATKV
+<style>
+.reflection-card {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background: radial-gradient(circle at top, rgba(66, 185, 131, 0.14), transparent 55%), linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 40px 70px -50px rgba(15, 23, 42, 0.9);
+  margin: 2rem 0;
+}
 
-**Situation:**
-I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the sprint backlog was already written. In a fast-paced environment, I needed to understand the sprints and the tasks under them. At the End of each week, we had to make sure that all the tasks are done and they meet the acceptance criteria.
+.reflection-card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+}
 
-**Task:**
-My task was to use the sprint backlog to check the tasks that needed to be implemented and also check if there are any blockers that might prevent those tasks from being implemented.I also had to keep up with the team's pace, so that my work was ready when others needed it. 
+.reflection-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
 
-**Action:**
-I did my own research whenever we move to a new sprintso I can fully under what is required. I ask a product owner everytime I have to implement a feature so that I can implement it exactly how they want it to be implemented. I looked only at the activities in the current sprint and worked out how much time each one would need. 
+.reflection-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
 
-**Result:**
-The sprint backlog helped me keep pace in a fast environment. I always knew what my current focus was, so I wasted less time deciding what to do next. Checking my work against the acceptance criteria made me more careful, and it meant fewer problems were found later. It also made my progress easy to see, for me and for the team.
+.reflection-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 10px;
+  color: #94a3b8;
+}
+
+.reflection-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.reflection-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #42b983 0%, #527d7a 100%);
+  color: #ffffff;
+  box-shadow: 0 24px 50px -24px rgba(66, 185, 131, 0.95);
+}
+
+.reflection-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.reflection-table thead th {
+  text-align: left;
+  padding: 14px 22px;
+  background: linear-gradient(90deg, rgba(66, 185, 131, 0.12) 0%, rgba(248, 250, 252, 1) 100%);
+  color: #0f766e;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-size: 10px;
+}
+
+.reflection-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.reflection-table tbody td {
+  padding: 18px 22px;
+  color: #475569;
+  line-height: 1.9;
+  vertical-align: top;
+}
+
+.reflection-table tbody td:first-child {
+  width: 140px;
+  font-weight: 700;
+  color: #1e293b;
+}
+</style>
+
+<div class="reflection-card">
+  <div class="reflection-card-content">
+    <div class="reflection-header">
+      <div class="reflection-title-group">
+        <span class="reflection-subtitle">ATKV</span>
+        <h2 class="reflection-title">Sprint Backlog – Reflection</h2>
+      </div>
+      <div class="reflection-index">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 12h16.5m-16.5 3.75h16.5M3.75 19.5h16.5M5.625 4.5h12.75a1.875 1.875 0 010 3.75H5.625a1.875 1.875 0 010-3.75z"/></svg>
+      </div>
+    </div>
+    <table class="reflection-table">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Reflection</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Situation</td>
+          <td>I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the sprint backlog was already written. In a fast-paced environment, I needed to understand the sprints and the tasks under them. At the end of each week, we had to make sure that all the tasks are done and they meet the acceptance criteria.</td>
+        </tr>
+        <tr>
+          <td>Task</td>
+          <td>My task was to use the sprint backlog to check the tasks that needed to be implemented and also check if there are any blockers that might prevent those tasks from being implemented. I also had to keep up with the team's pace, so that my work was ready when others needed it.</td>
+        </tr>
+        <tr>
+          <td>Action</td>
+          <td>I did my own research whenever we moved to a new sprint so I could fully understand what is required. I asked the Product Owner every time I had to implement a feature so that I could implement it exactly how they wanted it. I looked only at the activities in the current sprint and worked out how much time each one would need.</td>
+        </tr>
+        <tr>
+          <td>Result</td>
+          <td>The sprint backlog helped me keep pace in a fast environment. I always knew what my current focus was, so I wasted less time deciding what to do next. Checking my work against the acceptance criteria made me more careful, and it meant fewer problems were found later. It also made my progress easy to see, for me and for the team.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

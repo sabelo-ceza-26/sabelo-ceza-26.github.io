@@ -68,16 +68,139 @@ You can view the Product backlog on the Trello board here: [Laundry Pickup Pro T
 
 
 
-## REFLECTION ON PRODUCT BACKLOG
+<style>
+.reflection-card {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background: radial-gradient(circle at top, rgba(66, 185, 131, 0.14), transparent 55%), linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 40px 70px -50px rgba(15, 23, 42, 0.9);
+  margin: 2rem 0;
+}
 
-**Situation:**
-For the Laundry Pickup Pro project, my team and I used a product backlog. It is a single list of everything the project needs. We need a product backlog because a big project is easy to get lost in. Without a product backlog, tasks get forgotten, people are unsure what to do next, and the team can waste time on the wrong things. The backlog puts the whole project in one place, so everyone can see what must be done and what matters most.
+.reflection-card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+}
 
-**Task:**
-My task was to understand how the product backlog works and use it to stay organised. I had to know what each item covered, follow the priorities, and check the backlog regularly so I always know what to work on next. I also had to make sure that important work was not left behind while I was busy with smaller things.
+.reflection-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
 
-**Action:**
-I treated the backlog as my main planning tool. Before starting a task, I read its description to see exactly what it covered. This showed me what was expected, so I did not have to guess or do extra work that was not needed or required. The priorities helped me be aware of the tasks that must be done first.
+.reflection-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
 
-**Result:**
-The backlog made it much easier for me to stay organised. I always knew what was done, what was next, and what mattered most. It stopped me from forgetting tasks, and it kept me from spending too much time on small things while important work was waiting. It also helped the team stay on the same page, because everyone was working from the same list. What I am grateful for was setting priorities because I knew which tasks to do first.
+.reflection-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 10px;
+  color: #94a3b8;
+}
+
+.reflection-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.reflection-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #42b983 0%, #527d7a 100%);
+  color: #ffffff;
+  box-shadow: 0 24px 50px -24px rgba(66, 185, 131, 0.95);
+}
+
+.reflection-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.reflection-table thead th {
+  text-align: left;
+  padding: 14px 22px;
+  background: linear-gradient(90deg, rgba(66, 185, 131, 0.12) 0%, rgba(248, 250, 252, 1) 100%);
+  color: #0f766e;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-size: 10px;
+}
+
+.reflection-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.reflection-table tbody td {
+  padding: 18px 22px;
+  color: #475569;
+  line-height: 1.9;
+  vertical-align: top;
+}
+
+.reflection-table tbody td:first-child {
+  width: 140px;
+  font-weight: 700;
+  color: #1e293b;
+}
+</style>
+
+<div class="reflection-card">
+  <div class="reflection-card-content">
+    <div class="reflection-header">
+      <div class="reflection-title-group">
+        <span class="reflection-subtitle">Laundry Pickup Pro</span>
+        <h2 class="reflection-title">Product Backlog – Reflection</h2>
+      </div>
+      <div class="reflection-index">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zM3.75 12h.007v.008H3.75V12zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zm-.375 5.25h.007v.008H3.75v-.008zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z"/></svg>
+      </div>
+    </div>
+    <table class="reflection-table">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Reflection</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Situation</td>
+          <td>For the Laundry Pickup Pro project, my team and I used a product backlog. It is a single list of everything the project needs. We need a product backlog because a big project is easy to get lost in. Without a product backlog, tasks get forgotten, people are unsure what to do next, and the team can waste time on the wrong things. The backlog puts the whole project in one place, so everyone can see what must be done and what matters most.</td>
+        </tr>
+        <tr>
+          <td>Task</td>
+          <td>My task was to understand how the product backlog works and use it to stay organised. I had to know what each item covered, follow the priorities, and check the backlog regularly so I always know what to work on next. I also had to make sure that important work was not left behind while I was busy with smaller things.</td>
+        </tr>
+        <tr>
+          <td>Action</td>
+          <td>I treated the backlog as my main planning tool. Before starting a task, I read its description to see exactly what it covered. This showed me what was expected, so I did not have to guess or do extra work that was not needed or required. The priorities helped me be aware of the tasks that must be done first.</td>
+        </tr>
+        <tr>
+          <td>Result</td>
+          <td>The backlog made it much easier for me to stay organised. I always knew what was done, what was next, and what mattered most. It stopped me from forgetting tasks, and it kept me from spending too much time on small things while important work was waiting. It also helped the team stay on the same page, because everyone was working from the same list. Setting priorities helped me know which tasks to do first.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

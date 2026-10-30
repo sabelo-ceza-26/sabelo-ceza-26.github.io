@@ -36,17 +36,140 @@
 | PB32 (PBI 101101) | An adjudicator records the outcome of an entry | Allow adjudicators to review an entry, enter and save its outcome, and make the saved result available for later viewing. | High |
 | PB33 (PBI 101102) | An adjudicator records an outcome for each speaker in a team entry | Allow adjudicators to identify each speaker in a team entry, record a separate outcome for each speaker, save the outcomes against the correct people, and review the saved results. | High |
 
-### REFLECTION ON THE PRODUCT BACKLOG OF ATKV
+<style>
+.reflection-card {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background: radial-gradient(circle at top, rgba(66, 185, 131, 0.14), transparent 55%), linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 40px 70px -50px rgba(15, 23, 42, 0.9);
+  margin: 2rem 0;
+}
 
-**Situation:**
-I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the product backlog was already written. The environment was fast, so I did not have time to drag my feet, I had to read the backlog and learn what the project was about as quickly as I could. I had to understand what was being implemented and what was the timeframe for the project.
+.reflection-card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+}
 
-**Task:**
-My task was to fully understand the product backlog so I could keep up with the team. As the Developer, I need to know what each item asks for before I can build it. I had to learn what the app does, who uses it, and which items come first. I also had to use the backlog to see the tasks that needed to be done and in which order.
+.reflection-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
 
-**Action:**
-I started by reading the whole backlog from top to bottom, to get the big picture of the project. Then I went back and read each item more slowly. The descriptions were useful because they told me exactly what each item should do, so I did not have to guess or keep asking the team basic questions.
+.reflection-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
 
-**Result:**
-The product backlog made it much easier for me to catch up and stay organised. I always knew what the project needed, what mattered most, and what I should work on next. It also helped me join the team's conversations with more confidence, because I knew what everyone was talking about.
+.reflection-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 10px;
+  color: #94a3b8;
+}
+
+.reflection-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.reflection-index {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #42b983 0%, #527d7a 100%);
+  color: #ffffff;
+  box-shadow: 0 24px 50px -24px rgba(66, 185, 131, 0.95);
+}
+
+.reflection-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.reflection-table thead th {
+  text-align: left;
+  padding: 14px 22px;
+  background: linear-gradient(90deg, rgba(66, 185, 131, 0.12) 0%, rgba(248, 250, 252, 1) 100%);
+  color: #0f766e;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-size: 10px;
+}
+
+.reflection-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.reflection-table tbody td {
+  padding: 18px 22px;
+  color: #475569;
+  line-height: 1.9;
+  vertical-align: top;
+}
+
+.reflection-table tbody td:first-child {
+  width: 140px;
+  font-weight: 700;
+  color: #1e293b;
+}
+</style>
+
+<div class="reflection-card">
+  <div class="reflection-card-content">
+    <div class="reflection-header">
+      <div class="reflection-title-group">
+        <span class="reflection-subtitle">ATKV</span>
+        <h2 class="reflection-title">Product Backlog – Reflection</h2>
+      </div>
+      <div class="reflection-index">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" stroke-width="1.8" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zM3.75 12h.007v.008H3.75V12zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0zm-.375 5.25h.007v.008H3.75v-.008zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z"/></svg>
+      </div>
+    </div>
+    <table class="reflection-table">
+      <thead>
+        <tr>
+          <th>Element</th>
+          <th>Reflection</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Situation</td>
+          <td>I joined a team that is building a mobile app for ATKV members. When I got there, the work was already moving and the product backlog was already written. The environment was fast, so I did not have time to drag my feet, I had to read the backlog and learn what the project was about as quickly as I could. I had to understand what was being implemented and what was the timeframe for the project.</td>
+        </tr>
+        <tr>
+          <td>Task</td>
+          <td>My task was to fully understand the product backlog so I could keep up with the team. As the Developer, I need to know what each item asks for before I can build it. I had to learn what the app does, who uses it, and which items come first. I also had to use the backlog to see the tasks that needed to be done and in which order.</td>
+        </tr>
+        <tr>
+          <td>Action</td>
+          <td>I started by reading the whole backlog from top to bottom, to get the big picture of the project. Then I went back and read each item more slowly. The descriptions were useful because they told me exactly what each item should do, so I did not have to guess or keep asking the team basic questions.</td>
+        </tr>
+        <tr>
+          <td>Result</td>
+          <td>The product backlog made it much easier for me to catch up and stay organised. I always knew what the project needed, what mattered most, and what I should work on next. It also helped me join the team's conversations with more confidence, because I knew what everyone was talking about.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
